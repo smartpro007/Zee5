@@ -31,7 +31,7 @@ jobs:
           curl -fsSL https://tailscale.com/install.sh | sh
           sudo tailscaled &
           sleep 3
-          sudo tailscale up --authkey=${{ secrets.TAILSCALE_AUTHKEY }} --exit-node=poco-m6-pro-5g --exit-node-allow-lan-access=true
+          sudo tailscale up --authkey=${{ secrets.TAILSCALE_AUTHKEY }} --exit-node=100.125.144.27 --exit-node-allow-lan-access=true
 
       - name: Run ZEE5 Fetcher Script
         run: |
