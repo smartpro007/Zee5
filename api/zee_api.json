@@ -2,715 +2,715 @@
   {
     "name": "&Pictures",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/master.m3u8?hdnts=st=1793004561~exp=1793006361~acl=/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/*~id=GTX-780s_0-9-pictures_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=32143ab5d12f12437f6738ae7ef0a20fd7dab5286218367c6fc6c7f94c07554e&req_id=non-ssai_8186fad2-9c47-436f-b27e-178bbdf1a672",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/master.m3u8?hdnts=st=1793005777~exp=1793007577~acl=/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/*~id=GTX-780s_0-9-pictures_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=e15c5eff91189c02cc91b3fc288d76bcee92f4f6847d719ac45874317324c3e2&req_id=non-ssai_0394a174-78f8-401e-bde0-b79a76f14404",
     "apiby": "@ssk4570"
   },
   {
     "name": "&Pictures HD",
     "group": "Movie",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdnts=st=1793004561~exp=1793006361~acl=/cmaf/live/2105174/ANDPicturesHDELE/*~id=GTX-780s_0-9-tvpictureshd_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=fbb80c0f5f74a1f45f84fc3ee9ad917c1ab307e6c260d4dca7219c7c699ab449&req_id=non-ssai_cd9144b5-0e5e-470a-993b-ca3560db29d7",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdnts=st=1793005776~exp=1793007576~acl=/cmaf/live/2105174/ANDPicturesHDELE/*~id=GTX-780s_0-9-tvpictureshd_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=d3464cbd1e0f35a8926d3ae572106e6209790236c90db03aeb60d18e4ee46b99&req_id=non-ssai_f83fcb10-22c6-41dc-ad1a-e83f84a4dae5",
     "apiby": "@ssk4570"
   },
   {
     "name": "&TV HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdnts=st=1793004561~exp=1793006361~acl=/cmaf/live/2105504/AndTVHDELE/*~id=GTX-780s_0-9-tvhd_0_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=ccbca255e236fe59c8d459aa8e550a8daf19439eaa971bc5d65d556c55c5d81f&req_id=non-ssai_464ffdaf-265b-42e5-9689-24dec47cec7e",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdnts=st=1793005775~exp=1793008775~acl=/cmaf/live/2105504/AndTVHDELE/*~id=4005c18a-f910-4f41-af05-10eb07e35112~data=non-ssai_4005c18a-f910-4f41-af05-10eb07e35112~hmac=c78c2cd618b3d88bea35e72b32723c7f85dcca8affa3f1d4df2213c3134e79e1&req_id=non-ssai_4005c18a-f910-4f41-af05-10eb07e35112",
     "apiby": "@ssk4570"
   },
   {
     "name": "&TV HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdnts=st=1793004563~exp=1793007563~acl=/cmaf/live/2105504/AndTVHDELE/*~id=bdd5c120-bc73-49cf-9479-16d07373f62e~data=non-ssai_bdd5c120-bc73-49cf-9479-16d07373f62e~hmac=6d8e2542c0768ca1951df74124a9410924b306b333ce066ddc9d21518a83600b&req_id=non-ssai_bdd5c120-bc73-49cf-9479-16d07373f62e",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdnts=st=1793005776~exp=1793007576~acl=/cmaf/live/2105504/AndTVHDELE/*~id=GTX-780s_0-9-tvhd_0_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=0395aa52625c473d65bce5ededfc3f9ef1fa2e3c09047c69fc06864e0b4972d1&req_id=non-ssai_098c5cd4-17a6-4baf-a59b-386d19579392",
     "apiby": "@ssk4570"
   },
   {
     "name": "&TV HD USA",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AND-TV-USA-HD/index-connected/index-connected.m3u8?hdnts=st=1793004563~exp=1793006363~acl=/out/v1/ZEE5_Live_Channels/AND-TV-USA-HD/index-connected/*~id=GTX-780s_0-9-channel_1510237423_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=e5331802f75bd8f98732d61820614081a58e898dbe9de17a3b35b2536c8a1a09&req_id=non-ssai_9aecc409-a71d-42ca-bf04-0176e184001a",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AND-TV-USA-HD/index-connected/index-connected.m3u8?hdnts=st=1793005775~exp=1793007575~acl=/out/v1/ZEE5_Live_Channels/AND-TV-USA-HD/index-connected/*~id=GTX-780s_0-9-channel_1510237423_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9cfa8561f0fd8dd9aeeb836d56b3eb5f9f6450b74565a7e6f5e2e22eab9a8081&req_id=non-ssai_d5efaad5-b2f5-4064-8e35-414a87082e3f",
     "apiby": "@ssk4570"
   },
   {
     "name": "&xplorHD",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Xplor-HD/index-connected/index-connected.m3u8?hdnts=st=1793004557~exp=1793006357~acl=/out/v1/ZEE5_Live_Channels/And-Xplor-HD/index-connected/*~id=GTX-780s_0-9-209_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=21d3ed05115a74668574fc84b64f4a7e96a24da9dc9e9afc6df8c739ee638122&req_id=non-ssai_694fef72-6167-4c0b-96e8-966496faebb1",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Xplor-HD/index-connected/index-connected.m3u8?hdnts=st=1793005775~exp=1793007575~acl=/out/v1/ZEE5_Live_Channels/And-Xplor-HD/index-connected/*~id=GTX-780s_0-9-209_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=89ca882947eac5e295345de28022fe0dc0273aa02743afe2f87b4a15afc8f70a&req_id=non-ssai_70f953f4-ae8d-46f8-80fd-ef7a0d7d88fb",
     "apiby": "@ssk4570"
   },
   {
     "name": "Aaj Tak",
     "group": "News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdnts=st=1793004557~exp=1793007557~acl=/cmaf/live/2105503/AAJTAKHDNEWSELE/*~id=ecf48631-157c-4c85-9b83-e9c14671f3d8~data=non-ssai_ecf48631-157c-4c85-9b83-e9c14671f3d8~hmac=8304a59409cb416128aa812e77c10bdeda7f235ed61273bf060b5fcd33b87c4b&req_id=non-ssai_ecf48631-157c-4c85-9b83-e9c14671f3d8",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdnts=st=1793005775~exp=1793008775~acl=/cmaf/live/2105503/AAJTAKHDNEWSELE/*~id=d89d7e07-12b0-9b4e-8bc7-3c8f218cb84a~data=non-ssai_d89d7e07-12b0-9b4e-8bc7-3c8f218cb84a~hmac=8a12d85927f37b879c84dbe5fc33a34211aec3dae7f2c5c115a37ef9b4f7a62c&req_id=non-ssai_d89d7e07-12b0-9b4e-8bc7-3c8f218cb84a",
     "apiby": "@ssk4570"
   },
   {
     "name": "Anmol Cinema",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-Cinema-SD/master/master.m3u8?hdnts=st=1793004555~exp=1793007555~acl=/out/v1/ZEE5_Live_Channels/Zee-Anmol-Cinema-SD/master/*~id=6fc6038a-c62e-41d6-8d20-7cd4b6f11d3d~data=non-ssai_6fc6038a-c62e-41d6-8d20-7cd4b6f11d3d~hmac=d3421ce91a5cf7c6256876ee8c21225767341be86687510733286d7353f3d4b2&req_id=non-ssai_6fc6038a-c62e-41d6-8d20-7cd4b6f11d3d",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-Cinema-SD/master/master.m3u8?hdnts=st=1793005775~exp=1793008775~acl=/out/v1/ZEE5_Live_Channels/Zee-Anmol-Cinema-SD/master/*~id=0eeafcce-376d-44d0-81b0-29f3e71a776e~data=non-ssai_0eeafcce-376d-44d0-81b0-29f3e71a776e~hmac=6c2c340dfa958a61ccaf7e39f39efcd41db29724960c7ff724265fcd4d472ce4&req_id=non-ssai_0eeafcce-376d-44d0-81b0-29f3e71a776e",
     "apiby": "@ssk4570"
   },
   {
     "name": "Anmol Cinema 2",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdnts=st=1793004555~exp=1793007555~acl=/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/*~id=70927da6-49ee-4e49-ae61-f94ef36c509f~data=non-ssai_70927da6-49ee-4e49-ae61-f94ef36c509f~hmac=5f26edd6ad5c2e64bfc8b1bc60af6bbe9f3cff736562e72f7a31f14fd9b64b05&req_id=non-ssai_70927da6-49ee-4e49-ae61-f94ef36c509f",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdnts=st=1793005774~exp=1793008774~acl=/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/*~id=2b19d6fe-9095-42f2-94bf-7e08561d146c~data=non-ssai_2b19d6fe-9095-42f2-94bf-7e08561d146c~hmac=4c087f9ee3eb114e78a78f6afbd533a96bd0bacc4a35079e281a77d384d809ab&req_id=non-ssai_2b19d6fe-9095-42f2-94bf-7e08561d146c",
     "apiby": "@ssk4570"
   },
   {
     "name": "Anmol TV",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/master.m3u8?hdnts=st=1793004556~exp=1793007556~acl=/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/*~id=7cf59a8b-85f3-48e9-bbc0-273f57bac65d~data=non-ssai_7cf59a8b-85f3-48e9-bbc0-273f57bac65d~hmac=8ab6590faa19449f5ca0c9a6ba0144d5842a98f6322a02d58c98cb1c499934e0&req_id=non-ssai_7cf59a8b-85f3-48e9-bbc0-273f57bac65d",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/master.m3u8?hdnts=st=1793005774~exp=1793008774~acl=/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/*~id=c9decc53-2a0b-4ce2-b23c-82a310dac8d2~data=non-ssai_c9decc53-2a0b-4ce2-b23c-82a310dac8d2~hmac=113fd07bc5b6f5b52a537c7108fece742de9ed8033f7511252e9c7243f324483&req_id=non-ssai_c9decc53-2a0b-4ce2-b23c-82a310dac8d2",
     "apiby": "@ssk4570"
   },
   {
     "name": "Asianet News",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Asianet-News-HD/index-connected/index-connected.m3u8?hdnts=st=1793004556~exp=1793007556~acl=/out/v1/ZEE5_Live_Channels/Asianet-News-HD/index-connected/*~id=c041059e-54ca-4d97-b054-ff6baba256e4~data=non-ssai_c041059e-54ca-4d97-b054-ff6baba256e4~hmac=f1b55f303477cc855d8672928b6aaf4aafdc292a77f33937b3fe8248b535fd61&req_id=non-ssai_c041059e-54ca-4d97-b054-ff6baba256e4",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Asianet-News-HD/index-connected/index-connected.m3u8?hdnts=st=1793005774~exp=1793008774~acl=/out/v1/ZEE5_Live_Channels/Asianet-News-HD/index-connected/*~id=066b7fba-8013-4f37-8f57-72ff703789ce~data=non-ssai_066b7fba-8013-4f37-8f57-72ff703789ce~hmac=9d3d34dbb0a0fbdf59333a97573b613d49a70decd699a3716f66922ec98ce3eb&req_id=non-ssai_066b7fba-8013-4f37-8f57-72ff703789ce",
     "apiby": "@ssk4570"
   },
   {
     "name": "Big Magic",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/master.m3u8?hdnts=st=1793004555~exp=1793007555~acl=/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/*~id=847be686-d387-4363-9a52-7237cff9ad35~data=non-ssai_847be686-d387-4363-9a52-7237cff9ad35~hmac=bb07c8113c0dec656d7da86f82737f001592c2fd4435b96f1bfd5501afa065fc&req_id=non-ssai_847be686-d387-4363-9a52-7237cff9ad35",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/master.m3u8?hdnts=st=1793005773~exp=1793008773~acl=/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/*~id=17ffba83-de49-4848-a7dc-e76f2b46e4ae~data=non-ssai_17ffba83-de49-4848-a7dc-e76f2b46e4ae~hmac=e90c8962de80df8aa5140ef12d9a4d32d943de1e65085fa985f73159314530a1&req_id=non-ssai_17ffba83-de49-4848-a7dc-e76f2b46e4ae",
     "apiby": "@ssk4570"
   },
   {
     "name": "Dagdusheth Halwai Ganpati Mandir",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/dagdusheth1/Zee_Media/playlist.m3u8?e=0&h=5f04be0dbe998cfe63128b888ae5d823?hdnts=st=1793004556~exp=1793007556~acl=/cam/live/dagdusheth1/Zee_Media/*~id=9bcd606f-74f0-4a8f-ab40-cc3baf9ef844~data=non-ssai_9bcd606f-74f0-4a8f-ab40-cc3baf9ef844~hmac=5a35b1d80a946e7cacebcdc8e34a95658ebcf16a0326acef1e93fc6c4284ca52&req_id=non-ssai_9bcd606f-74f0-4a8f-ab40-cc3baf9ef844",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/dagdusheth1/Zee_Media/playlist.m3u8?e=0&h=5f04be0dbe998cfe63128b888ae5d823?hdnts=st=1793005773~exp=1793008773~acl=/cam/live/dagdusheth1/Zee_Media/*~id=19123141-742c-4162-aff2-3a880146ea05~data=non-ssai_19123141-742c-4162-aff2-3a880146ea05~hmac=d5bc0f7cd6495fc274841dba349d0b5c6c6bb7c792c9accd0ea077998fe230f8&req_id=non-ssai_19123141-742c-4162-aff2-3a880146ea05",
     "apiby": "@ssk4570"
   },
   {
     "name": "Good News Today",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Good-News-Today-HD/index-connected/index-connected.m3u8?hdnts=st=1793004556~exp=1793007556~acl=/out/v1/ZEE5_Live_Channels/Good-News-Today-HD/index-connected/*~id=139d1bcb-b5ab-4fe1-a599-d1cb0daceacf~data=non-ssai_139d1bcb-b5ab-4fe1-a599-d1cb0daceacf~hmac=1293ce6c7624a896aaacb7ffea2b559e436665bf5c96479f6df6bf64a47fcdaf&req_id=non-ssai_139d1bcb-b5ab-4fe1-a599-d1cb0daceacf",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Good-News-Today-HD/index-connected/index-connected.m3u8?hdnts=st=1793005773~exp=1793008773~acl=/out/v1/ZEE5_Live_Channels/Good-News-Today-HD/index-connected/*~id=f307612e-b185-475e-be4f-29ce2d3b3340~data=non-ssai_f307612e-b185-475e-be4f-29ce2d3b3340~hmac=1c535b3bced3fbd60fc48943a667311d6545a47fb8ac81e5367aad19cb850919&req_id=non-ssai_f307612e-b185-475e-be4f-29ce2d3b3340",
     "apiby": "@ssk4570"
   },
   {
     "name": "Great! Christmas",
     "group": "Movie",
-    "url": "https://amg01753-amg01753c8-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793004556~exp=1793007556~acl=/*~id=fadfcbe8-95cb-4b33-9a3b-9490898175fe~data=non-ssai_fadfcbe8-95cb-4b33-9a3b-9490898175fe~hmac=2b69c6a0453eda2b9bbaeaf4c32419695b3cce7a0e54b6c8f1661a1625b8c0df&req_id=non-ssai_fadfcbe8-95cb-4b33-9a3b-9490898175fe",
+    "url": "https://amg01753-amg01753c8-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793005773~exp=1793008773~acl=/*~id=c6038752-7ae7-99ec-841f-fa61800a342f~data=non-ssai_c6038752-7ae7-99ec-841f-fa61800a342f~hmac=da6173499980ad66c27ad27d87188a5ebb046a017057f330615f1d25c2feedbb&req_id=non-ssai_c6038752-7ae7-99ec-841f-fa61800a342f",
     "apiby": "@ssk4570"
   },
   {
     "name": "Great! Movies",
     "group": "Movie",
-    "url": "https://amg01753-amg01753c3-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793004557~exp=1793007557~acl=/*~id=9bff00bd-2f5e-4e1b-9ad6-146a0cdc702b~data=non-ssai_9bff00bd-2f5e-4e1b-9ad6-146a0cdc702b~hmac=958221de3b1d1aec56c659a9b0f00560159dbedfaaf257b917fdc974527edfb1&req_id=non-ssai_9bff00bd-2f5e-4e1b-9ad6-146a0cdc702b",
+    "url": "https://amg01753-amg01753c3-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793005773~exp=1793008773~acl=/*~id=f6c193d9-0565-441f-9d58-c7621c7fbf3b~data=non-ssai_f6c193d9-0565-441f-9d58-c7621c7fbf3b~hmac=57f15713d9c3a656d52e81b49b1c9e6632be5fb0d0a01fbb9d0d1feefc8758f2&req_id=non-ssai_f6c193d9-0565-441f-9d58-c7621c7fbf3b",
     "apiby": "@ssk4570"
   },
   {
     "name": "Great! Mystery",
     "group": "Movie",
-    "url": "https://amg01753-amg01753c13-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793004556~exp=1793007556~acl=/*~id=902d331f-c96c-496d-bdd1-b33cda019981~data=non-ssai_902d331f-c96c-496d-bdd1-b33cda019981~hmac=8686d8f895770e08c3a90a9e74ca273fa6dc34fa9dc71b28c237341be64486ab&req_id=non-ssai_902d331f-c96c-496d-bdd1-b33cda019981",
+    "url": "https://amg01753-amg01753c13-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793005774~exp=1793008774~acl=/*~id=24565289-2ca0-44d2-8d5b-52a9f7c536dd~data=non-ssai_24565289-2ca0-44d2-8d5b-52a9f7c536dd~hmac=0bc5cf8eec5a8356e60836ba735293efd18496c94ca09797aa43ff816c14fde9&req_id=non-ssai_24565289-2ca0-44d2-8d5b-52a9f7c536dd",
     "apiby": "@ssk4570"
   },
   {
     "name": "India Today",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/India-Today-HD/index-connected/index-connected.m3u8?hdnts=st=1793004553~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/India-Today-HD/index-connected/*~id=99d651e8-9b27-4739-951a-c10755941ec0~data=non-ssai_99d651e8-9b27-4739-951a-c10755941ec0~hmac=7ff9e217cc81ad75ca806e4358921a7f5a9934263fc44b02db1bce41c9b86068&req_id=non-ssai_99d651e8-9b27-4739-951a-c10755941ec0",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/India-Today-HD/index-connected/index-connected.m3u8?hdnts=st=1793005773~exp=1793008773~acl=/out/v1/ZEE5_Live_Channels/India-Today-HD/index-connected/*~id=5262ac84-bfd6-4889-a955-e1f30e2047a2~data=non-ssai_5262ac84-bfd6-4889-a955-e1f30e2047a2~hmac=77024e134a6fd7ba732c4e6f6700a22a09e5d3af01f8111ba22c4137d15a7e5e&req_id=non-ssai_5262ac84-bfd6-4889-a955-e1f30e2047a2",
     "apiby": "@ssk4570"
   },
   {
     "name": "Iskcon Vrindavan",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/feed023/Zee_Media/playlist.m3u8?e=0&h=b01d178188e02c84ac3babca2f52ccfa?hdnts=st=1793004553~exp=1793007553~acl=/cam/live/feed023/Zee_Media/*~id=3608d545-9186-48dc-aa7b-4a73434737e7~data=non-ssai_3608d545-9186-48dc-aa7b-4a73434737e7~hmac=5e0c484dd18ea453d5021ed522fc2fefb4d1d69cb0e598170072a8993a16f7d0&req_id=non-ssai_3608d545-9186-48dc-aa7b-4a73434737e7",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/feed023/Zee_Media/playlist.m3u8?e=0&h=b01d178188e02c84ac3babca2f52ccfa?hdnts=st=1793005773~exp=1793008773~acl=/cam/live/feed023/Zee_Media/*~id=3bfd1a24-711d-4dda-848e-4c90f8eafb43~data=non-ssai_3bfd1a24-711d-4dda-848e-4c90f8eafb43~hmac=cbe2f18d768ca0e427908bd858d8bf9720b009586f195739df7bd7ba80c5dc05&req_id=non-ssai_3bfd1a24-711d-4dda-848e-4c90f8eafb43",
     "apiby": "@ssk4570"
   },
   {
     "name": "Kashi Vishwanath",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Zee_Media/playlist.m3u8?e=0&h=f8fc672c5c1a5ac4230f5f4793d77b90?hdnts=st=1793004553~exp=1793007553~acl=/cam/live/Kashi_Vishwanath/Zee_Media/*~id=7b88400f-a73c-4cae-a162-17f19d9a061a~data=non-ssai_7b88400f-a73c-4cae-a162-17f19d9a061a~hmac=6b7d149386f1748c46612beec1b5dab7d56bc4dd476258b7242ac92d49e179dd&req_id=non-ssai_7b88400f-a73c-4cae-a162-17f19d9a061a",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Zee_Media/playlist.m3u8?e=0&h=f8fc672c5c1a5ac4230f5f4793d77b90?hdnts=st=1793005773~exp=1793008773~acl=/cam/live/Kashi_Vishwanath/Zee_Media/*~id=3b5e2458-b1fe-47f7-8ced-44de193c89ae~data=non-ssai_3b5e2458-b1fe-47f7-8ced-44de193c89ae~hmac=7dba27dee263a0c6a820ffa792824fe5bc06dfab4bfe78b61c471b77463f184c&req_id=non-ssai_3b5e2458-b1fe-47f7-8ced-44de193c89ae",
     "apiby": "@ssk4570"
   },
   {
     "name": "Ma Naina Devi",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/Nainadevi/Zee_Media/playlist.m3u8?e=0&h=0bc1a9085c61739d2e7f5c9696f0d580?hdnts=st=1793004553~exp=1793007553~acl=/cam/live/Nainadevi/Zee_Media/*~id=062495da-15ee-4075-b362-1b781fa75d5a~data=non-ssai_062495da-15ee-4075-b362-1b781fa75d5a~hmac=ba8883c56f04b52036d982a20f6ea2f0cc6ac2e7c99d1bf3c1be290a50aca853&req_id=non-ssai_062495da-15ee-4075-b362-1b781fa75d5a",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/Nainadevi/Zee_Media/playlist.m3u8?e=0&h=0bc1a9085c61739d2e7f5c9696f0d580?hdnts=st=1793005773~exp=1793008773~acl=/cam/live/Nainadevi/Zee_Media/*~id=8f1b4228-8563-4ac5-b135-e75babcf1326~data=non-ssai_8f1b4228-8563-4ac5-b135-e75babcf1326~hmac=9658be742b286347b6733e55674bd5eb3bead7191d4799b84d8fea0438d135f0&req_id=non-ssai_8f1b4228-8563-4ac5-b135-e75babcf1326",
     "apiby": "@ssk4570"
   },
   {
     "name": "Mahavir Mandir Patna",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/PatnaHanuman/Zee_Media/playlist.m3u8?e=0&h=0ad4bfc5e187efbc0489c47db7c20b2f?hdnts=st=1793004553~exp=1793007553~acl=/cam/live/PatnaHanuman/Zee_Media/*~id=b1fd3d65-d532-4ef5-8273-824c52ccc2b2~data=non-ssai_b1fd3d65-d532-4ef5-8273-824c52ccc2b2~hmac=81b0b0e40d54da48411aa5d6aa82a3db1663c67fe4be90ecbbbb92ce9114f363&req_id=non-ssai_b1fd3d65-d532-4ef5-8273-824c52ccc2b2",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/PatnaHanuman/Zee_Media/playlist.m3u8?e=0&h=0ad4bfc5e187efbc0489c47db7c20b2f?hdnts=st=1793005772~exp=1793008772~acl=/cam/live/PatnaHanuman/Zee_Media/*~id=357620de-0e2e-4538-bf81-ae0867301be5~data=non-ssai_357620de-0e2e-4538-bf81-ae0867301be5~hmac=8301da89a124495f623e548d7d878a928b19af5214c88d3e1e4fb71e611c6ace&req_id=non-ssai_357620de-0e2e-4538-bf81-ae0867301be5",
     "apiby": "@ssk4570"
   },
   {
     "name": "NDTV",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/NDTV_24x7_HD/index-connected/index-connected.m3u8?hdnts=st=1793004553~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/NDTV_24x7_HD/index-connected/*~id=b2f492e2-d252-4926-8a19-c2810720cc74~data=non-ssai_b2f492e2-d252-4926-8a19-c2810720cc74~hmac=e63fa134c1f45b7b38b857ec8e70c97fe3e4220865ab16747cfa2f34d21e7321&req_id=non-ssai_b2f492e2-d252-4926-8a19-c2810720cc74",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/NDTV_24x7_HD/index-connected/index-connected.m3u8?hdnts=st=1793005771~exp=1793008771~acl=/out/v1/ZEE5_Live_Channels/NDTV_24x7_HD/index-connected/*~id=820fb3ca-4c66-4c02-a631-0d0abbc853ad~data=non-ssai_820fb3ca-4c66-4c02-a631-0d0abbc853ad~hmac=dba8527275cfb3f10524f4b1a15b812bfa7a5b2003a4186e3eab110f18ea340e&req_id=non-ssai_820fb3ca-4c66-4c02-a631-0d0abbc853ad",
     "apiby": "@ssk4570"
   },
   {
     "name": "NDTV India",
     "group": "News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/NDTV-INDIA-HD/index-connected.m3u8?hdnts=st=1793004552~exp=1793007552~acl=/cmaf/live/2105525/NDTV-INDIA-HD/*~id=8bf50f40-2c52-4269-9340-2c3e2cf37158~data=non-ssai_8bf50f40-2c52-4269-9340-2c3e2cf37158~hmac=9c8a0d3b670cd061d4896985176d95b06d9d9f70226b536af9e4b3cc7db5dfd6&req_id=non-ssai_8bf50f40-2c52-4269-9340-2c3e2cf37158",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/NDTV-INDIA-HD/index-connected.m3u8?hdnts=st=1793005771~exp=1793008771~acl=/cmaf/live/2105525/NDTV-INDIA-HD/*~id=26f0a508-90d7-488b-a301-cd26fba15219~data=non-ssai_26f0a508-90d7-488b-a301-cd26fba15219~hmac=7c87bb467716a2208366ce594ace2f5c50f5566ceecaba68a338c0fc427be19c&req_id=non-ssai_26f0a508-90d7-488b-a301-cd26fba15219",
     "apiby": "@ssk4570"
   },
   {
     "name": "NDTV Marathi ",
     "group": "News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/NDTV-MARATHI-HD/index-connected.m3u8?hdnts=st=1793004552~exp=1793007552~acl=/cmaf/live/2105526/NDTV-MARATHI-HD/*~id=a8c4b657-0b82-4162-a051-ffd500866966~data=non-ssai_a8c4b657-0b82-4162-a051-ffd500866966~hmac=873f5c9b9ea1e09aa48180c6b62402d899f0f9240d7a812dae652daf10bbb606&req_id=non-ssai_a8c4b657-0b82-4162-a051-ffd500866966",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/NDTV-MARATHI-HD/index-connected.m3u8?hdnts=st=1793005771~exp=1793008771~acl=/cmaf/live/2105526/NDTV-MARATHI-HD/*~id=d67ddde7-237d-4ab3-95a4-30f7ae084340~data=non-ssai_d67ddde7-237d-4ab3-95a4-30f7ae084340~hmac=678eeebfa2f029f594928da9a9000508a4ef602de8001101d4a915db674e2aaa&req_id=non-ssai_d67ddde7-237d-4ab3-95a4-30f7ae084340",
     "apiby": "@ssk4570"
   },
   {
     "name": "NDTV Profit",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/NDTV_PROFIT_HD/index-connected/index-connected.m3u8?hdnts=st=1793004551~exp=1793007551~acl=/out/v1/ZEE5_Live_Channels/NDTV_PROFIT_HD/index-connected/*~id=1dd21209-2b78-4738-8c76-0de0c9046f43~data=non-ssai_1dd21209-2b78-4738-8c76-0de0c9046f43~hmac=87d5311c1b90a63f34451205eb4e85ce0f758e5c88c74ad2b334ce6a01e74aee&req_id=non-ssai_1dd21209-2b78-4738-8c76-0de0c9046f43",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/NDTV_PROFIT_HD/index-connected/index-connected.m3u8?hdnts=st=1793005771~exp=1793008771~acl=/out/v1/ZEE5_Live_Channels/NDTV_PROFIT_HD/index-connected/*~id=a32cc022-81cb-4787-8f8e-9f2f46594090~data=non-ssai_a32cc022-81cb-4787-8f8e-9f2f46594090~hmac=5398ba8b7251a54d547fcf31ec85240db7aaeee7cc777500f2e16d8bfd887f3e&req_id=non-ssai_a32cc022-81cb-4787-8f8e-9f2f46594090",
     "apiby": "@ssk4570"
   },
   {
     "name": "News 9",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-NEWS9/index-connected/index-connected.m3u8?hdnts=st=1793004552~exp=1793007552~acl=/out/v1/ZEE5_Live_Channels/TV9-NEWS9/index-connected/*~id=a6472af3-413e-4c53-81a6-7e1ce5f2f858~data=non-ssai_a6472af3-413e-4c53-81a6-7e1ce5f2f858~hmac=52e11076c11fa6b080210fa09b0c53e4b288493da28ab63ef27706904b9379c0&req_id=non-ssai_a6472af3-413e-4c53-81a6-7e1ce5f2f858",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-NEWS9/index-connected/index-connected.m3u8?hdnts=st=1793005772~exp=1793008772~acl=/out/v1/ZEE5_Live_Channels/TV9-NEWS9/index-connected/*~id=0002a73a-6921-4c81-a24a-31eb7a7f8d60~data=non-ssai_0002a73a-6921-4c81-a24a-31eb7a7f8d60~hmac=1fa47b4d6f721fa401f0a1f9c4d568745b78bd9d3d2fb5b9d61f2c0c41317895&req_id=non-ssai_0002a73a-6921-4c81-a24a-31eb7a7f8d60",
     "apiby": "@ssk4570"
   },
   {
     "name": "Patna Sahib",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Zee_Media/playlist.m3u8?e=0&h=bb304d25e95fd8ce8b6be9684a241195?hdnts=st=1793004552~exp=1793007552~acl=/cam/live/gurudwara_patnasahib/Zee_Media/*~id=f0746364-6750-4b1b-9d0e-0a7c60cc6c2c~data=non-ssai_f0746364-6750-4b1b-9d0e-0a7c60cc6c2c~hmac=fac3554e3107cb337d454fc4c6545d138b41b8c00ab24b93dac2a1abd3dff52f&req_id=non-ssai_f0746364-6750-4b1b-9d0e-0a7c60cc6c2c",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Zee_Media/playlist.m3u8?e=0&h=bb304d25e95fd8ce8b6be9684a241195?hdnts=st=1793005771~exp=1793008771~acl=/cam/live/gurudwara_patnasahib/Zee_Media/*~id=ffc7d7a1-0f40-4492-9393-ed4844342dab~data=non-ssai_ffc7d7a1-0f40-4492-9393-ed4844342dab~hmac=f443d9798505ee7200468a0d7bb77d878e029ab275ac155386469368e0c66646&req_id=non-ssai_ffc7d7a1-0f40-4492-9393-ed4844342dab",
     "apiby": "@ssk4570"
   },
   {
     "name": "Polimer News",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/POLIMER_TV_PLAYOUT/index-connected/index-connected.m3u8?hdnts=st=1793004551~exp=1793007551~acl=/out/v1/ZEE5_Live_Channels/POLIMER_TV_PLAYOUT/index-connected/*~id=de0f46b3-fcfa-4096-97ca-e92cd434bf83~data=non-ssai_de0f46b3-fcfa-4096-97ca-e92cd434bf83~hmac=aabcaafe8b88fb20fe61df019aad20bf90ace2b5f8706d0ee35a456a504371fc&req_id=non-ssai_de0f46b3-fcfa-4096-97ca-e92cd434bf83",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/POLIMER_TV_PLAYOUT/index-connected/index-connected.m3u8?hdnts=st=1793005771~exp=1793008771~acl=/out/v1/ZEE5_Live_Channels/POLIMER_TV_PLAYOUT/index-connected/*~id=9dabf9b9-cdb2-44b9-bfeb-209c14d223ff~data=non-ssai_9dabf9b9-cdb2-44b9-bfeb-209c14d223ff~hmac=cd26e3e442377ec98396a1925abe947ebfd17996987c916f24de6dc1040f0833&req_id=non-ssai_9dabf9b9-cdb2-44b9-bfeb-209c14d223ff",
     "apiby": "@ssk4570"
   },
   {
     "name": "POP",
     "group": "Entertainment",
-    "url": "https://amg01753-amg01753c9-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793004552~exp=1793007552~acl=/*~id=5a6ef3ab-7a41-4557-a838-1cbf6991f01a~data=non-ssai_5a6ef3ab-7a41-4557-a838-1cbf6991f01a~hmac=32469909fd21482b37360ca2de48a79345c7be8abcd0d4852199e41842a9cc00&req_id=non-ssai_5a6ef3ab-7a41-4557-a838-1cbf6991f01a",
+    "url": "https://amg01753-amg01753c9-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793005771~exp=1793008771~acl=/*~id=d540e5d5-b01a-4755-8d20-72806180054d~data=non-ssai_d540e5d5-b01a-4755-8d20-72806180054d~hmac=98dfc90b17749bc9c889c0dda7cae4fb788fcc801358dc9126f35a913e4736e8&req_id=non-ssai_d540e5d5-b01a-4755-8d20-72806180054d",
     "apiby": "@ssk4570"
   },
   {
     "name": "POP UP",
     "group": "Kids",
-    "url": "https://amg01753-amg01753c14-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793004552~exp=1793007552~acl=/*~id=877368e2-e197-40c7-81f1-c1d4b00c1a63~data=non-ssai_877368e2-e197-40c7-81f1-c1d4b00c1a63~hmac=253c72b4f15c0fd03c41c43d84109d2e973b564b6a6c5491c7e932407c49ec6c&req_id=non-ssai_877368e2-e197-40c7-81f1-c1d4b00c1a63",
+    "url": "https://amg01753-amg01753c14-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793005771~exp=1793008771~acl=/*~id=f8536b30-a27f-4aa0-9413-99d4543bb80c~data=non-ssai_f8536b30-a27f-4aa0-9413-99d4543bb80c~hmac=37fa31ded55f228144d8347f2f04695e01605acd10f64e15470f29ff21c246b7&req_id=non-ssai_f8536b30-a27f-4aa0-9413-99d4543bb80c",
     "apiby": "@ssk4570"
   },
   {
     "name": "Sai Baba, Shirdi",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/feed008/Zee_Media/playlist.m3u8?e=0&h=1e076b716048330f3a02481fcee07265?hdnts=st=1793004550~exp=1793007550~acl=/cam/live/feed008/Zee_Media/*~id=1b360d6f-d19d-4d7f-aba7-84591adec94c~data=non-ssai_1b360d6f-d19d-4d7f-aba7-84591adec94c~hmac=61d67de4c444a5bd13031f068025018bd5ea7bca7140115875e68584b6f62f15&req_id=non-ssai_1b360d6f-d19d-4d7f-aba7-84591adec94c",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/feed008/Zee_Media/playlist.m3u8?e=0&h=1e076b716048330f3a02481fcee07265?hdnts=st=1793005770~exp=1793008770~acl=/cam/live/feed008/Zee_Media/*~id=1b9d41e7-7758-4b1d-a5d0-f9edc19e952f~data=non-ssai_1b9d41e7-7758-4b1d-a5d0-f9edc19e952f~hmac=f76c14a621a1575b3bbb06cc3a7830487ef5abbd9fcba95c355e9559cc47b20f&req_id=non-ssai_1b9d41e7-7758-4b1d-a5d0-f9edc19e952f",
     "apiby": "@ssk4570"
   },
   {
     "name": "Salaam TV",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Salaam-SD/master/master.m3u8?hdnts=st=1793004550~exp=1793007550~acl=/out/v1/ZEE5_Live_Channels/Zee-Salaam-SD/master/*~id=d3b73f0f-9fdd-4a7e-96a9-c205740b25cc~data=non-ssai_d3b73f0f-9fdd-4a7e-96a9-c205740b25cc~hmac=7ae0c6557ea08431064fabebccaf4eb947d058e1ba12e4e975d8b611016eb1e4&req_id=non-ssai_d3b73f0f-9fdd-4a7e-96a9-c205740b25cc",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Salaam-SD/master/master.m3u8?hdnts=st=1793005770~exp=1793008770~acl=/out/v1/ZEE5_Live_Channels/Zee-Salaam-SD/master/*~id=6747e8fe-d1d4-428b-8c1b-6442c6b1f003~data=non-ssai_6747e8fe-d1d4-428b-8c1b-6442c6b1f003~hmac=9b4b7523a02cb85a924e7974c601f8d77dc71cd3a312d1505cc086d698be3388&req_id=non-ssai_6747e8fe-d1d4-428b-8c1b-6442c6b1f003",
     "apiby": "@ssk4570"
   },
   {
     "name": "Shree Naga Sai  Temple - Coimbatore",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/feed88_1/Zee_Media/playlist.m3u8?e=0&h=89eb034d3f6cd8321c983dc3885eab18?hdnts=st=1793004549~exp=1793007549~acl=/cam/live/feed88_1/Zee_Media/*~id=99351756-1cd4-42e8-ba4c-9f32984edc6d~data=non-ssai_99351756-1cd4-42e8-ba4c-9f32984edc6d~hmac=063848d44ee29c9055a3379ea13e94702adc81c529bc7fb873351f42dacf2546&req_id=non-ssai_99351756-1cd4-42e8-ba4c-9f32984edc6d",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/feed88_1/Zee_Media/playlist.m3u8?e=0&h=89eb034d3f6cd8321c983dc3885eab18?hdnts=st=1793005770~exp=1793008770~acl=/cam/live/feed88_1/Zee_Media/*~id=053f241f-fed6-4899-9ffd-a81acc8b482e~data=non-ssai_053f241f-fed6-4899-9ffd-a81acc8b482e~hmac=e3193f22df4a757f6cce1ee949fba1dd7f047b01540db4a06dc0678250778fc2&req_id=non-ssai_053f241f-fed6-4899-9ffd-a81acc8b482e",
     "apiby": "@ssk4570"
   },
   {
     "name": "Somnath Temple",
     "group": "Devotional",
-    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/somnath1/Zee_Media/playlist.m3u8?e=0&h=a1d9787fc190186f1efe4ab43963c585?hdnts=st=1793004549~exp=1793007549~acl=/cam/live/somnath1/Zee_Media/*~id=ac21a8a0-bb34-4eb3-be51-d0b8d2ebb7bf~data=non-ssai_ac21a8a0-bb34-4eb3-be51-d0b8d2ebb7bf~hmac=d64fa14af68c61b3f69f7cb544d00813b8e465ada70bf310a640ad75c529884d&req_id=non-ssai_ac21a8a0-bb34-4eb3-be51-d0b8d2ebb7bf",
+    "url": "https://cam.pc.cdn.bitgravity.com/cam/live/somnath1/Zee_Media/playlist.m3u8?e=0&h=a1d9787fc190186f1efe4ab43963c585?hdnts=st=1793005769~exp=1793008769~acl=/cam/live/somnath1/Zee_Media/*~id=140720b5-c257-4cb7-bacf-bc561b3e14cf~data=non-ssai_140720b5-c257-4cb7-bacf-bc561b3e14cf~hmac=36e80b8153361c87ec37cc1cc0d8bc0052cf5d2e5128fd3189c6041bd9b35210&req_id=non-ssai_140720b5-c257-4cb7-bacf-bc561b3e14cf",
     "apiby": "@ssk4570"
   },
   {
     "name": "Suvarna News",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Suvarna-News-HD/index-connected/index-connected.m3u8?hdnts=st=1793004549~exp=1793007549~acl=/out/v1/ZEE5_Live_Channels/Suvarna-News-HD/index-connected/*~id=56f3b956-1a96-4496-8247-2739c9777b8d~data=non-ssai_56f3b956-1a96-4496-8247-2739c9777b8d~hmac=13270fb9e7723d6a0c4bef594b4e441b536f5e56520e390477826844e525b028&req_id=non-ssai_56f3b956-1a96-4496-8247-2739c9777b8d",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Suvarna-News-HD/index-connected/index-connected.m3u8?hdnts=st=1793005769~exp=1793008769~acl=/out/v1/ZEE5_Live_Channels/Suvarna-News-HD/index-connected/*~id=3ec825f0-a0ea-4adc-a3aa-871ea30b8d60~data=non-ssai_3ec825f0-a0ea-4adc-a3aa-871ea30b8d60~hmac=8a31f93c42f6aceca52242de4806e610dc614a7fa1638e0d6b10fd21e1665831&req_id=non-ssai_3ec825f0-a0ea-4adc-a3aa-871ea30b8d60",
     "apiby": "@ssk4570"
   },
   {
     "name": "Tiny Pop",
     "group": "Kids",
-    "url": "https://amg01753-amg01753c1-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793004550~exp=1793007550~acl=/*~id=bd43052a-f977-40b2-86c8-5c8b09b6a1b9~data=non-ssai_bd43052a-f977-40b2-86c8-5c8b09b6a1b9~hmac=fffe5ca7f27cbb4f596ea12fa51dfbf65c4546bfaaa83b42428ad179831a081f&req_id=non-ssai_bd43052a-f977-40b2-86c8-5c8b09b6a1b9",
+    "url": "https://amg01753-amg01753c1-amgplt0807.playout.now3.amagi.tv/playlist.m3u8?hdnts=st=1793005769~exp=1793008769~acl=/*~id=f3801a8f-77a4-4c51-bd9c-e4cc976feffd~data=non-ssai_f3801a8f-77a4-4c51-bd9c-e4cc976feffd~hmac=351a6ecae97f561a2a18eb8b27c7694847c80ceabce36469aff12f89f1cd32e8&req_id=non-ssai_f3801a8f-77a4-4c51-bd9c-e4cc976feffd",
     "apiby": "@ssk4570"
   },
   {
     "name": "TV9 Bangla",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-BANGLA-HD/index-connected/index-connected.m3u8?hdnts=st=1793004548~exp=1793007548~acl=/out/v1/ZEE5_Live_Channels/TV9-BANGLA-HD/index-connected/*~id=1336473d-a576-43ca-9970-2d4040a9b930~data=non-ssai_1336473d-a576-43ca-9970-2d4040a9b930~hmac=4cefb6cb19ce114eed5900e5cc336d7c166faa96926598f24631a886f7b111d9&req_id=non-ssai_1336473d-a576-43ca-9970-2d4040a9b930",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-BANGLA-HD/index-connected/index-connected.m3u8?hdnts=st=1793005769~exp=1793008769~acl=/out/v1/ZEE5_Live_Channels/TV9-BANGLA-HD/index-connected/*~id=4f28116f-21be-484c-98d9-f2b7202d6616~data=non-ssai_4f28116f-21be-484c-98d9-f2b7202d6616~hmac=8d42999b79c8237479c6d342f2cedddfcb68c92257e79b6632d97009111fb581&req_id=non-ssai_4f28116f-21be-484c-98d9-f2b7202d6616",
     "apiby": "@ssk4570"
   },
   {
     "name": "TV9 Bharatvarsh",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-BHARATVARSH-HD/index-connected/index-connected.m3u8?hdnts=st=1793004548~exp=1793007548~acl=/out/v1/ZEE5_Live_Channels/TV9-BHARATVARSH-HD/index-connected/*~id=0a998049-3357-46ec-8ef8-4784284d69d1~data=non-ssai_0a998049-3357-46ec-8ef8-4784284d69d1~hmac=54cd26fccc07dab72d93d966e8567426f440921f73517dc92615cb655256efbb&req_id=non-ssai_0a998049-3357-46ec-8ef8-4784284d69d1",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-BHARATVARSH-HD/index-connected/index-connected.m3u8?hdnts=st=1793005769~exp=1793008769~acl=/out/v1/ZEE5_Live_Channels/TV9-BHARATVARSH-HD/index-connected/*~id=18a79869-e724-40ac-a599-a810e8977d70~data=non-ssai_18a79869-e724-40ac-a599-a810e8977d70~hmac=45953f1950679fc37de27c92ad3727248ad6b8757492731d681b8b6548b07505&req_id=non-ssai_18a79869-e724-40ac-a599-a810e8977d70",
     "apiby": "@ssk4570"
   },
   {
     "name": "TV9 Gujarati",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-GUJARATI-HD/index-connected/index-connected.m3u8?hdnts=st=1793004548~exp=1793007548~acl=/out/v1/ZEE5_Live_Channels/TV9-GUJARATI-HD/index-connected/*~id=ff9e34b0-1dcf-45b9-8523-a10a63eb3dca~data=non-ssai_ff9e34b0-1dcf-45b9-8523-a10a63eb3dca~hmac=41cd5e7fc3bc81d3eddd99468360d36c8b0d49fc78d58454c6708bc5580e7b9b&req_id=non-ssai_ff9e34b0-1dcf-45b9-8523-a10a63eb3dca",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-GUJARATI-HD/index-connected/index-connected.m3u8?hdnts=st=1793005769~exp=1793008769~acl=/out/v1/ZEE5_Live_Channels/TV9-GUJARATI-HD/index-connected/*~id=5d89e170-ca7c-464b-a77b-0e769852e107~data=non-ssai_5d89e170-ca7c-464b-a77b-0e769852e107~hmac=aa1ec78003f7be7e694f584a40e84e755d27de7dbd9bb1dacfb3c69df22bc49e&req_id=non-ssai_5d89e170-ca7c-464b-a77b-0e769852e107",
     "apiby": "@ssk4570"
   },
   {
     "name": "TV9 Kannada",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-KANNADA-HD/index-connected/index-connected.m3u8?hdnts=st=1793004547~exp=1793007547~acl=/out/v1/ZEE5_Live_Channels/TV9-KANNADA-HD/index-connected/*~id=9fe52f6e-7bcc-4f8e-a8e6-91161b5ca20f~data=non-ssai_9fe52f6e-7bcc-4f8e-a8e6-91161b5ca20f~hmac=ca0ab10ea7604bd43333be40e17530e5a6bc904734dea0c70cbad0f19a0568b6&req_id=non-ssai_9fe52f6e-7bcc-4f8e-a8e6-91161b5ca20f",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-KANNADA-HD/index-connected/index-connected.m3u8?hdnts=st=1793005768~exp=1793008768~acl=/out/v1/ZEE5_Live_Channels/TV9-KANNADA-HD/index-connected/*~id=33a2c423-bc7a-474b-a210-5beff31dc27d~data=non-ssai_33a2c423-bc7a-474b-a210-5beff31dc27d~hmac=bb1b620fadcdafe7ef606bc82d93f5f0ea7319de183b8b4174dc16c1496a730b&req_id=non-ssai_33a2c423-bc7a-474b-a210-5beff31dc27d",
     "apiby": "@ssk4570"
   },
   {
     "name": "TV9 Marathi",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-MARATHI-HD/index-connected/index-connected.m3u8?hdnts=st=1793004547~exp=1793007547~acl=/out/v1/ZEE5_Live_Channels/TV9-MARATHI-HD/index-connected/*~id=2970e7fc-7102-42eb-b4c1-1d396a91d487~data=non-ssai_2970e7fc-7102-42eb-b4c1-1d396a91d487~hmac=829934ff64ff175589f5f1987bdc71891c01ca877b74c053bc70c53da1952522&req_id=non-ssai_2970e7fc-7102-42eb-b4c1-1d396a91d487",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-MARATHI-HD/index-connected/index-connected.m3u8?hdnts=st=1793005768~exp=1793008768~acl=/out/v1/ZEE5_Live_Channels/TV9-MARATHI-HD/index-connected/*~id=19f4e59c-f6fa-44c0-9d4d-948ae830e654~data=non-ssai_19f4e59c-f6fa-44c0-9d4d-948ae830e654~hmac=ecb382078640678299cfdc703f5bfa898d7753465666b6d21d76252b60cf410f&req_id=non-ssai_19f4e59c-f6fa-44c0-9d4d-948ae830e654",
     "apiby": "@ssk4570"
   },
   {
     "name": "TV9 Telugu",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-TELUGU-HD/index-connected/index-connected.m3u8?hdnts=st=1793004547~exp=1793007547~acl=/out/v1/ZEE5_Live_Channels/TV9-TELUGU-HD/index-connected/*~id=db05d261-7c8d-4228-81f1-09f8d0edbfdc~data=non-ssai_db05d261-7c8d-4228-81f1-09f8d0edbfdc~hmac=0c8572dcbe3dbc2d8307ae28596f97de1c3b761d70b055ce3d3cd4469219e329&req_id=non-ssai_db05d261-7c8d-4228-81f1-09f8d0edbfdc",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/TV9-TELUGU-HD/index-connected/index-connected.m3u8?hdnts=st=1793005768~exp=1793008768~acl=/out/v1/ZEE5_Live_Channels/TV9-TELUGU-HD/index-connected/*~id=38694394-44c7-4600-8a93-721d3cc834d6~data=non-ssai_38694394-44c7-4600-8a93-721d3cc834d6~hmac=ab3825727d161c430b51586f28f25fdfc5718e89af50c1dd1dbbe793399dcad5&req_id=non-ssai_38694394-44c7-4600-8a93-721d3cc834d6",
     "apiby": "@ssk4570"
   },
   {
     "name": "WION",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/WION-News-SD/master/master.m3u8?hdnts=st=1793004547~exp=1793007547~acl=/out/v1/ZEE5_Live_Channels/WION-News-SD/master/*~id=1de33db6-5c03-4fdd-8dfa-8a5a13f50576~data=non-ssai_1de33db6-5c03-4fdd-8dfa-8a5a13f50576~hmac=55d6e093cfc24f991ee308360a2025b375082057fdd9a8bebf82a446e730b539&req_id=non-ssai_1de33db6-5c03-4fdd-8dfa-8a5a13f50576",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/WION-News-SD/master/master.m3u8?hdnts=st=1793005768~exp=1793008768~acl=/out/v1/ZEE5_Live_Channels/WION-News-SD/master/*~id=1a43644b-c772-4c76-80d2-2610609822f0~data=non-ssai_1a43644b-c772-4c76-80d2-2610609822f0~hmac=f771093452ecff3384166b0da32b45544c2f98dc9986f8404750b4934aa9fda6&req_id=non-ssai_1a43644b-c772-4c76-80d2-2610609822f0",
     "apiby": "@ssk4570"
   },
   {
     "name": "Z Athiradi",
     "group": "Movie",
-    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeeathd/playlist.m3u8?hdnts=st=1793004546~exp=1793007546~acl=/zfast/stream/zeeathd/*~id=f43f4895-7b76-49ce-83e9-0321b6aae4a0~data=non-ssai_f43f4895-7b76-49ce-83e9-0321b6aae4a0~hmac=4a1268f6c3a6c11b4d18d12b09621130bd13ca406d25d21f95015fd116126751&req_id=non-ssai_f43f4895-7b76-49ce-83e9-0321b6aae4a0",
+    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeeathd/playlist.m3u8?hdnts=st=1793005768~exp=1793008768~acl=/zfast/stream/zeeathd/*~id=8d413e50-f377-4594-a5b0-46b080b175ae~data=non-ssai_8d413e50-f377-4594-a5b0-46b080b175ae~hmac=5187a300f7f6093b3807ddde35fd14c596b870d25c361d44be6a09ba4b872cb3&req_id=non-ssai_8d413e50-f377-4594-a5b0-46b080b175ae",
     "apiby": "@ssk4570"
   },
   {
     "name": "Z Comedy Nation",
     "group": "Comedy",
-    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeecom/playlist.m3u8?hdnts=st=1793004546~exp=1793007546~acl=/zfast/stream/zeecom/*~id=b5c9d2c5-ec0b-490b-abf1-e6c5ee783e32~data=non-ssai_b5c9d2c5-ec0b-490b-abf1-e6c5ee783e32~hmac=3e7a10ba939a639172b54ae78ff23ee0432f58f78334a4f77fabbd66dfbc6a35&req_id=non-ssai_b5c9d2c5-ec0b-490b-abf1-e6c5ee783e32",
+    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeecom/playlist.m3u8?hdnts=st=1793005767~exp=1793008767~acl=/zfast/stream/zeecom/*~id=c7f71433-a15f-4588-ae3f-235cc478f55e~data=non-ssai_c7f71433-a15f-4588-ae3f-235cc478f55e~hmac=b6f1b291551f6056bb1723d06a76def96898937072366604b3123a3350cdd4d3&req_id=non-ssai_c7f71433-a15f-4588-ae3f-235cc478f55e",
     "apiby": "@ssk4570"
   },
   {
     "name": "Z Dil Se",
     "group": "Drama",
-    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeedil/playlist.m3u8?hdnts=st=1793004545~exp=1793007545~acl=/zfast/stream/zeedil/*~id=3276162d-8f01-402b-9afc-bd8d29ccd494~data=non-ssai_3276162d-8f01-402b-9afc-bd8d29ccd494~hmac=81da3129a2306fc9018baa6897dc61daf412f502cdf87086e588a1f86179b333&req_id=non-ssai_3276162d-8f01-402b-9afc-bd8d29ccd494",
+    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeedil/playlist.m3u8?hdnts=st=1793005767~exp=1793008767~acl=/zfast/stream/zeedil/*~id=2c5078f9-e7b2-483b-92b7-769f8069360b~data=non-ssai_2c5078f9-e7b2-483b-92b7-769f8069360b~hmac=2d1ca0a53f940c8e5826d591097cd5e1d52f8e42ed2f8db97f3da5cf690b50a7&req_id=non-ssai_2c5078f9-e7b2-483b-92b7-769f8069360b",
     "apiby": "@ssk4570"
   },
   {
     "name": "Z Horror Nights",
     "group": "Supernatural",
-    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeehor/playlist.m3u8?hdnts=st=1793004543~exp=1793007543~acl=/zfast/stream/zeehor/*~id=6b4ec259-f4ee-412c-a849-6c9867191504~data=non-ssai_6b4ec259-f4ee-412c-a849-6c9867191504~hmac=e1e57488917e4c668c0894b80018788c411c9394b8ea0586b8d4eac0ed772f1a&req_id=non-ssai_6b4ec259-f4ee-412c-a849-6c9867191504",
+    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeehor/playlist.m3u8?hdnts=st=1793005767~exp=1793008767~acl=/zfast/stream/zeehor/*~id=16d93e0a-7790-425e-a23d-0db725d529f4~data=non-ssai_16d93e0a-7790-425e-a23d-0db725d529f4~hmac=bdf31bb068851b0b22e4730ed80af38b513ba62e696721a0408c25ed3be47f7b&req_id=non-ssai_16d93e0a-7790-425e-a23d-0db725d529f4",
     "apiby": "@ssk4570"
   },
   {
     "name": "Z Prematho",
     "group": "Movie",
-    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeeprema/playlist.m3u8?hdnts=st=1793004543~exp=1793007543~acl=/zfast/stream/zeeprema/*~id=579f3bfa-1baa-4033-8071-2ba2fd1fb874~data=non-ssai_579f3bfa-1baa-4033-8071-2ba2fd1fb874~hmac=f02a431b8cf2d88aaf9d3d00cc97d2db5aba00a560604545f1c4728580685998&req_id=non-ssai_579f3bfa-1baa-4033-8071-2ba2fd1fb874",
+    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeeprema/playlist.m3u8?hdnts=st=1793005767~exp=1793008767~acl=/zfast/stream/zeeprema/*~id=5b3883b6-a86d-4922-a9b1-7bedc01c8615~data=non-ssai_5b3883b6-a86d-4922-a9b1-7bedc01c8615~hmac=50e207e9e74beae58cdc1dd7146c93c4344e5b7f079dbaaba6f5cf1b94d4b2f0&req_id=non-ssai_5b3883b6-a86d-4922-a9b1-7bedc01c8615",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee 24 Ghanta",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-24Ghanta-News-SD/master/master.m3u8?hdnts=st=1793004542~exp=1793007542~acl=/out/v1/ZEE5_Live_Channels/Zee-24Ghanta-News-SD/master/*~id=4ce5d3c2-b79d-4d6d-8b7c-3ada93ad30aa~data=non-ssai_4ce5d3c2-b79d-4d6d-8b7c-3ada93ad30aa~hmac=17b5754c69db7a15cb0d6a37c483b496a6ee377ce8d8708dd9236c403afa6b85&req_id=non-ssai_4ce5d3c2-b79d-4d6d-8b7c-3ada93ad30aa",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-24Ghanta-News-SD/master/master.m3u8?hdnts=st=1793005767~exp=1793008767~acl=/out/v1/ZEE5_Live_Channels/Zee-24Ghanta-News-SD/master/*~id=630bf538-34e6-4c8a-ad9f-68093112f044~data=non-ssai_630bf538-34e6-4c8a-ad9f-68093112f044~hmac=703cc56236f641f0ebdd65de9cabb82bad18a947fde36ccbc86d368f6221c409&req_id=non-ssai_630bf538-34e6-4c8a-ad9f-68093112f044",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee 24 Kalak",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-24-Kalak-SD/master/master.m3u8?hdnts=st=1793004543~exp=1793007543~acl=/out/v1/ZEE5_Live_Channels/Zee-24-Kalak-SD/master/*~id=339ac621-61ed-44c3-b07f-4faed0d2ebcb~data=non-ssai_339ac621-61ed-44c3-b07f-4faed0d2ebcb~hmac=9b02479d98b6bd6da7653de9cf5c396f5eecfab6399004e5f0f8e821ee112330&req_id=non-ssai_339ac621-61ed-44c3-b07f-4faed0d2ebcb",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-24-Kalak-SD/master/master.m3u8?hdnts=st=1793005766~exp=1793008766~acl=/out/v1/ZEE5_Live_Channels/Zee-24-Kalak-SD/master/*~id=f5eb7b71-5307-45c7-b98f-04af8f25f10e~data=non-ssai_f5eb7b71-5307-45c7-b98f-04af8f25f10e~hmac=367712e53ece675b6064b4022260631d147d7d4861e96707a0be5f8c01188259&req_id=non-ssai_f5eb7b71-5307-45c7-b98f-04af8f25f10e",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee 24 Taas",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-24Taas-News-SD/master/master.m3u8?hdnts=st=1793004540~exp=1793007540~acl=/out/v1/ZEE5_Live_Channels/Zee-24Taas-News-SD/master/*~id=5e62d646-1f02-4382-9b4a-445c9c53a218~data=non-ssai_5e62d646-1f02-4382-9b4a-445c9c53a218~hmac=ec5ce53b5411b1e66ae81d466a1a1236be1c0def6dcfc5bed4b5be6ad448cb85&req_id=non-ssai_5e62d646-1f02-4382-9b4a-445c9c53a218",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-24Taas-News-SD/master/master.m3u8?hdnts=st=1793005766~exp=1793008766~acl=/out/v1/ZEE5_Live_Channels/Zee-24Taas-News-SD/master/*~id=d6e89126-4433-4ea3-848b-a4ea55ce87e6~data=non-ssai_d6e89126-4433-4ea3-848b-a4ea55ce87e6~hmac=001040123718de5ebe025e0d57931a12cb3daa7101f996387938265d0d3e3534&req_id=non-ssai_d6e89126-4433-4ea3-848b-a4ea55ce87e6",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Action",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/master.m3u8?hdnts=st=1793004540~exp=1793007540~acl=/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/*~id=d04bb84a-a71f-4975-99fa-9f0d914877c8~data=non-ssai_d04bb84a-a71f-4975-99fa-9f0d914877c8~hmac=a985d31025c73c93ea2515ab91672b81b61c3cdfbd722c76a60a743fa93beeb6&req_id=non-ssai_d04bb84a-a71f-4975-99fa-9f0d914877c8",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/master.m3u8?hdnts=st=1793005766~exp=1793008766~acl=/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/*~id=1ddf0e6c-879f-4d0e-b7ca-f61f9087c70b~data=non-ssai_1ddf0e6c-879f-4d0e-b7ca-f61f9087c70b~hmac=fc79f5e82ce6382fefd7f3278617a447ba3db655cffdf65d61e82895ef99eda0&req_id=non-ssai_1ddf0e6c-879f-4d0e-b7ca-f61f9087c70b",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Aflam",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Z-Aflam-SD/master/master.m3u8?hdnts=st=1793004553~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Z-Aflam-SD/master/*~id=fb0f7f3c-be76-4248-b875-5b7c7d105906~data=non-ssai_fb0f7f3c-be76-4248-b875-5b7c7d105906~hmac=741ad9f45ac95097ea9dc134564a30b6c728f424654fe86a0b92981154d8c48b&req_id=non-ssai_fb0f7f3c-be76-4248-b875-5b7c7d105906",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Z-Aflam-SD/master/master.m3u8?hdnts=st=1793005766~exp=1793008766~acl=/out/v1/ZEE5_Live_Channels/Z-Aflam-SD/master/*~id=924c28ea-b818-4a80-a437-dc4a7d316d04~data=non-ssai_924c28ea-b818-4a80-a437-dc4a7d316d04~hmac=f81c853ce4550a4d3c89944cc294be5c16967603e78f6cab8e3f61eaaf44cb6c&req_id=non-ssai_924c28ea-b818-4a80-a437-dc4a7d316d04",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Aflam HD",
     "group": "Movie",
-    "url": "https://amg17931-zee-amg17931c1-z5-mena-9642.playouts.now.amagi.tv/master.m3u8?hdnts=st=1793004541~exp=1793007541~acl=/*~id=49576f58-7c43-4215-a002-dbf76afbcda8~data=non-ssai_49576f58-7c43-4215-a002-dbf76afbcda8~hmac=e5d14b375cc0b18565269f0ce38bb76486b0f882834e1ac9fd012598c7d4f271&req_id=non-ssai_49576f58-7c43-4215-a002-dbf76afbcda8",
+    "url": "https://amg17931-zee-amg17931c1-z5-mena-9642.playouts.now.amagi.tv/master.m3u8?hdnts=st=1793005766~exp=1793008766~acl=/*~id=04f231b2-aa84-4aa7-ba39-9462a8963217~data=non-ssai_04f231b2-aa84-4aa7-ba39-9462a8963217~hmac=98ef66744e82bf14a89c138cf8dfe00036335e8539dfff236d5010a508bfaea4&req_id=non-ssai_04f231b2-aa84-4aa7-ba39-9462a8963217",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Alwan",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Z-Alwan-SD/master/master.m3u8?hdnts=st=1793004552~exp=1793007552~acl=/out/v1/ZEE5_Live_Channels/Z-Alwan-SD/master/*~id=0d424bf8-7e30-4154-b39b-0b7ec1b7722d~data=non-ssai_0d424bf8-7e30-4154-b39b-0b7ec1b7722d~hmac=8ed8393bd3b16f6edc5a0c89c73c78e69dacba0f0f2b4731faab9db0d2cc1525&req_id=non-ssai_0d424bf8-7e30-4154-b39b-0b7ec1b7722d",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Z-Alwan-SD/master/master.m3u8?hdnts=st=1793005765~exp=1793008765~acl=/out/v1/ZEE5_Live_Channels/Z-Alwan-SD/master/*~id=bf3f8a79-b603-4631-ac7e-42ef3cccbe13~data=non-ssai_bf3f8a79-b603-4631-ac7e-42ef3cccbe13~hmac=82e6cbf7d006eb12b8242d640a2e630cbcf77742c0b8d8b286c20663dce1ed3b&req_id=non-ssai_bf3f8a79-b603-4631-ac7e-42ef3cccbe13",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Alwan HD",
     "group": "Entertainment",
-    "url": "https://amg17931-zee-amg17931c2-z5-mena-9639.playouts.now.amagi.tv/master.m3u8?hdnts=st=1793004540~exp=1793007540~acl=/*~id=6081f6a2-828c-9c50-9e1a-a83e0bf128bd~data=non-ssai_6081f6a2-828c-9c50-9e1a-a83e0bf128bd~hmac=1cd36514269d39c6e3825e94b35702313365691ee07e7260f924f48f492a3fe8&req_id=non-ssai_6081f6a2-828c-9c50-9e1a-a83e0bf128bd",
+    "url": "https://amg17931-zee-amg17931c2-z5-mena-9639.playouts.now.amagi.tv/master.m3u8?hdnts=st=1793005765~exp=1793008765~acl=/*~id=e2b7e371-332e-455d-9ac0-94161eefa633~data=non-ssai_e2b7e371-332e-455d-9ac0-94161eefa633~hmac=87fbab2399beb64e22d6ecd1a6663eb135b050da035bce726b26c237f4fd0bd5&req_id=non-ssai_e2b7e371-332e-455d-9ac0-94161eefa633",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bangla",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bangla-SD/master/master.m3u8?hdnts=st=1793004537~exp=1793006337~acl=/out/v1/ZEE5_Live_Channels/Zee-Bangla-SD/master/*~id=GTX-780s_0-9-9z5383484_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=14730be042ad0794ca7e1e0f752c2bad3a7b515f726301729968054bb880578f&req_id=non-ssai_2b7351cd-7953-407c-a01d-99e87d15e252",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bangla-SD/master/master.m3u8?hdnts=st=1793005765~exp=1793007565~acl=/out/v1/ZEE5_Live_Channels/Zee-Bangla-SD/master/*~id=GTX-780s_0-9-9z5383484_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=2e495a81d99ad5c6eebeec1931e15f51f5f2f0c32cddea64ac6ddb2aeb50a066&req_id=non-ssai_44284df7-bd12-4710-9a4b-6c1efd25800b",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bangla HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdnts=st=1793004537~exp=1793006337~acl=/cmaf/live/2105554/ZeeBanglaHDELE/*~id=GTX-780s_0-9-zeebangla_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=4760d15fa7659de2f9606b80ce0622b8b5db6d108a9f53c2ea05e553c26a0455&req_id=non-ssai_a0bd6b80-648a-44ba-8ad7-7b268836e57d",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdnts=st=1793005765~exp=1793007565~acl=/cmaf/live/2105554/ZeeBanglaHDELE/*~id=GTX-780s_0-9-zeebangla_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=5d5783bdae799ea616a4ef9a4fcf3cabecd1905ebcdc50abddd58efcf6ae1bca&req_id=non-ssai_3745a8c2-16f7-4f4c-b174-8016507e3da0",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bangla International",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bangla-International-SD/master/master.m3u8?hdnts=st=1793004546~exp=1793006346~acl=/out/v1/ZEE5_Live_Channels/Zee-Bangla-International-SD/master/*~id=GTX-780s_0-9-366_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=a8b76dcdc3933e5b00613bb56f5d92b567e095446c1e2d870a81e13df7289f9b&req_id=non-ssai_eabfd45f-8c0b-4256-9817-8ae0db8f3e27",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bangla-International-SD/master/master.m3u8?hdnts=st=1793005765~exp=1793007565~acl=/out/v1/ZEE5_Live_Channels/Zee-Bangla-International-SD/master/*~id=GTX-780s_0-9-366_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=afcba6d72e88ae1188b93fb509484f3910d089ebfde277d60ac0ad4047f58f9f&req_id=non-ssai_e085465e-2773-4410-8e0a-b5a93489cfe0",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bangla Sonar",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bangla-Sonar-SD/master/master.m3u8?hdnts=st=1793004537~exp=1793006337~acl=/out/v1/ZEE5_Live_Channels/Zee-Bangla-Sonar-SD/master/*~id=GTX-780s_0-9-zeebanglacinema_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=91c8e6f31994185116293a08c1f546ad40b3cfb7d4f9b6ac3fba5a29ebf66c5c&req_id=non-ssai_2bd0a37c-aab9-41a9-93e3-e6a5c0472bac",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bangla-Sonar-SD/master/master.m3u8?hdnts=st=1793005764~exp=1793007564~acl=/out/v1/ZEE5_Live_Channels/Zee-Bangla-Sonar-SD/master/*~id=GTX-780s_0-9-zeebanglacinema_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=b3061e86fec3d840bd4551b4f4cee0c5f918df5077f0f0bac50936309561da19&req_id=non-ssai_7d6918ac-4605-4e25-91e7-a32790f01ad9",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bharat",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bharat-News-SD/master/master.m3u8?hdnts=st=1793004536~exp=1793007536~acl=/out/v1/ZEE5_Live_Channels/Zee-Bharat-News-SD/master/*~id=6e22404b-1a9b-4886-8edd-ae3cfb4e7f02~data=non-ssai_6e22404b-1a9b-4886-8edd-ae3cfb4e7f02~hmac=cc599b85253f898e1b64c81c5255d27aac4811ff262dd5a2fcb2c8d487e9f1bb&req_id=non-ssai_6e22404b-1a9b-4886-8edd-ae3cfb4e7f02",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bharat-News-SD/master/master.m3u8?hdnts=st=1793005764~exp=1793008764~acl=/out/v1/ZEE5_Live_Channels/Zee-Bharat-News-SD/master/*~id=46e179cf-8cd4-4f94-9445-5b8dc986dc02~data=non-ssai_46e179cf-8cd4-4f94-9445-5b8dc986dc02~hmac=9149028eb57b581ee2a869f90552e042bf800ff1bc06e6152b7a215988ca691c&req_id=non-ssai_46e179cf-8cd4-4f94-9445-5b8dc986dc02",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bihar Jharkhand",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bihar-Jharkhand-SD/master/master.m3u8?hdnts=st=1793004536~exp=1793007536~acl=/out/v1/ZEE5_Live_Channels/Zee-Bihar-Jharkhand-SD/master/*~id=ea6fbecf-5da1-4f0c-a8f2-522295e9cbac~data=non-ssai_ea6fbecf-5da1-4f0c-a8f2-522295e9cbac~hmac=f5ff30dfb515e53695c3d20bcee70678e65a86042aee016f248da68392644738&req_id=non-ssai_ea6fbecf-5da1-4f0c-a8f2-522295e9cbac",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bihar-Jharkhand-SD/master/master.m3u8?hdnts=st=1793005764~exp=1793008764~acl=/out/v1/ZEE5_Live_Channels/Zee-Bihar-Jharkhand-SD/master/*~id=2fef1340-1949-463f-ac62-4de89204784f~data=non-ssai_2fef1340-1949-463f-ac62-4de89204784f~hmac=710a90681d0de44ced4c0f342cd89eb6ffbf94e8957a3558e7d5b4a1ee2b4d76&req_id=non-ssai_2fef1340-1949-463f-ac62-4de89204784f",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bioskop",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bioskop-Indonesia-SD/master/master.m3u8?hdnts=st=1793004543~exp=1793006343~acl=/out/v1/ZEE5_Live_Channels/Zee-Bioskop-Indonesia-SD/master/*~id=GTX-780s_0-9-zeebioskop_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=bb65d9884407587d3817795d798c81b833a005fadfbb5f435fcc0064aed88ab1&req_id=non-ssai_ae33b4d2-7488-41e6-8029-11dda9c6c625",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bioskop-Indonesia-SD/master/master.m3u8?hdnts=st=1793005764~exp=1793007564~acl=/out/v1/ZEE5_Live_Channels/Zee-Bioskop-Indonesia-SD/master/*~id=GTX-780s_0-9-zeebioskop_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=62b2e6dbc6b0a7e9acda88e574719e36bfa140de4eb0670201ce1c8255d1ad78&req_id=non-ssai_220351e6-598e-495a-99c7-e366413d78f7",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Biskope",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Biskope-SD/master/master.m3u8?hdnts=st=1793004535~exp=1793007535~acl=/out/v1/ZEE5_Live_Channels/Zee-Biskope-SD/master/*~id=e6a7ddde-8aa3-450a-acf3-fe8a67ac70aa~data=non-ssai_e6a7ddde-8aa3-450a-acf3-fe8a67ac70aa~hmac=7f027f3dc88a972dde70167587b12aeba312db308a1436441a11203d1abda905&req_id=non-ssai_e6a7ddde-8aa3-450a-acf3-fe8a67ac70aa",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Biskope-SD/master/master.m3u8?hdnts=st=1793005764~exp=1793008764~acl=/out/v1/ZEE5_Live_Channels/Zee-Biskope-SD/master/*~id=91f45973-fc9a-9985-bf30-5db7cab14033~data=non-ssai_91f45973-fc9a-9985-bf30-5db7cab14033~hmac=4935b4331adbde2e5ac55d777493b97d2af0735bc15b4bca0f2c1bc1fe7aa363&req_id=non-ssai_91f45973-fc9a-9985-bf30-5db7cab14033",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Bollywood",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/master.m3u8?hdnts=st=1793004534~exp=1793006334~acl=/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/*~id=GTX-780s_0-9-zeeclassic_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9355b2d86995b2689ab50cecf568dedef89810becdcaa01870288dee4976f125&req_id=non-ssai_4470352f-85e1-4b1a-a205-88330932b45e",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/master.m3u8?hdnts=st=1793005764~exp=1793007564~acl=/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/*~id=GTX-780s_0-9-zeeclassic_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9ff63639c4db36325f4b08495991d4d0528d0f85e8c539b9334834cfecc21c4e&req_id=non-ssai_71e50f5c-16d6-4155-99d7-a3fce677e9b0",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Business",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Business-News-SD/master/master.m3u8?hdnts=st=1793004534~exp=1793007534~acl=/out/v1/ZEE5_Live_Channels/Zee-Business-News-SD/master/*~id=ca49062d-79f5-4e5d-a8ef-9b50645e1f17~data=non-ssai_ca49062d-79f5-4e5d-a8ef-9b50645e1f17~hmac=6d8dd451779c5e523709581816dabcd0497326ece22dd42ab8dc571a492da1e8&req_id=non-ssai_ca49062d-79f5-4e5d-a8ef-9b50645e1f17",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Business-News-SD/master/master.m3u8?hdnts=st=1793005764~exp=1793008764~acl=/out/v1/ZEE5_Live_Channels/Zee-Business-News-SD/master/*~id=9de468b6-0956-42a4-ba46-43cc4111ae19~data=non-ssai_9de468b6-0956-42a4-ba46-43cc4111ae19~hmac=d3fe5f7108b7a66e8fa0fc3845cd5b08995811998748448429c8c91c00466db3&req_id=non-ssai_9de468b6-0956-42a4-ba46-43cc4111ae19",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cine Classic",
     "group": "Movie",
-    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeecin/playlist.m3u8?hdnts=st=1793004534~exp=1793007534~acl=/zfast/stream/zeecin/*~id=072cd53c-a485-447a-acd6-615a34c3fc91~data=non-ssai_072cd53c-a485-447a-acd6-615a34c3fc91~hmac=c67221a78da25208b7f6939682c18fb08deb8e587283153ea590244734fd4199&req_id=non-ssai_072cd53c-a485-447a-acd6-615a34c3fc91",
+    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeecin/playlist.m3u8?hdnts=st=1793005763~exp=1793008763~acl=/zfast/stream/zeecin/*~id=7d163b73-39ac-4b7d-a52b-3aa3b89414ea~data=non-ssai_7d163b73-39ac-4b7d-a52b-3aa3b89414ea~hmac=d7ac8b6c7785783118761fc5fcbf4e476918117949c81d9e8a77794c21ac7c6c&req_id=non-ssai_7d163b73-39ac-4b7d-a52b-3aa3b89414ea",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cinema",
     "group": "Movie",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdnts=st=1793004533~exp=1793006333~acl=/cmaf/live/2105552/ZeeCinemaELE/*~id=GTX-780s_0-9-zeecinema_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=59c9aeb7b539824f032216301727dc0867bb8dabefbf4069e85f3efd145cd3e0&req_id=non-ssai_5a1488d1-0b15-47e5-bfee-2ba50daf0516",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdnts=st=1793005763~exp=1793007563~acl=/cmaf/live/2105552/ZeeCinemaELE/*~id=GTX-780s_0-9-zeecinema_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=daa0282be36a5a22f39bc99ea42589fc8ddd4aac2c6ab8cd8cc994be2aeb31c6&req_id=non-ssai_24cf2934-efcf-4515-96d0-08d226db7102",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cinema HD",
     "group": "Movie",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdnts=st=1793004533~exp=1793006333~acl=/cmaf/live/2105540/ZeeCinemaHDELE/*~id=GTX-780s_0-9-zeecinemahd_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=04124adfd7eae1f785ac22f7c818ec4003634c30cd86eb708964b1a6a8d10639&req_id=non-ssai_c6785b92-7e55-4245-95dc-722ed514f434",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdnts=st=1793005763~exp=1793007563~acl=/cmaf/live/2105540/ZeeCinemaHDELE/*~id=GTX-780s_0-9-zeecinemahd_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=5ff01b2f21c1e1aef9d446b67d8f61ef48db0dffadf655644836c03e5289b510&req_id=non-ssai_c5799fa0-5cd1-4189-a06f-f46b9f6398e6",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cinema ME",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinema-ME-SD/master/master.m3u8?hdnts=st=1793004540~exp=1793006340~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinema-ME-SD/master/*~id=GTX-780s_0-9-zeecinemaintl_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=61618b8edfd25e32620382319d3c5eebf0643d0e75dfa1ceae34010a12e8bfa5&req_id=non-ssai_cb06fb24-fe3f-41cd-8879-4d7edd4ab1b5",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinema-ME-SD/master/master.m3u8?hdnts=st=1793005763~exp=1793007563~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinema-ME-SD/master/*~id=GTX-780s_0-9-zeecinemaintl_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9c1466efb5147fa136f114bf345d9833001b53a93500dd547deb4071f8c0824d&req_id=non-ssai_96f41733-a080-45f2-81bb-4fd2ab7406dd",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cinema UK",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinema-UK-SD/master/master.m3u8?hdnts=st=1793004535~exp=1793006335~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinema-UK-SD/master/*~id=GTX-780s_0-9-zeecinemauk_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=8b47d19bf59af9115ea98fa6d550356edab20a756e4df4c3b52879ea7a4fad01&req_id=non-ssai_a6249b56-6a40-4449-b435-b91c93337555",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinema-UK-SD/master/master.m3u8?hdnts=st=1793005762~exp=1793007562~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinema-UK-SD/master/*~id=GTX-780s_0-9-zeecinemauk_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=59ec8efbb978ca71397e0448fc2815ba74b8d73d00238e0e98889edee60adb01&req_id=non-ssai_1baca515-07e7-48ae-95d2-714ed3b359bd",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cinema USA",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinema-USA-SD/master/master.m3u8?hdnts=st=1793004542~exp=1793006342~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinema-USA-SD/master/*~id=GTX-780s_0-9-179_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=69eacd104d9987a20f597edc193f5ec3c523833e29723cfd1fb73bb6a8add3b7&req_id=non-ssai_0facc78a-e8ec-4bf2-bf0f-a090d62768a5",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinema-USA-SD/master/master.m3u8?hdnts=st=1793005762~exp=1793007562~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinema-USA-SD/master/*~id=GTX-780s_0-9-179_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=0c476fb5a11cd5983cefc2b29896b96ed367033aea2613ae1959734a55b37417&req_id=non-ssai_13aaa48d-9014-4f31-99a8-8e376e1c0012",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cinemalu",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinemalu-SD/master/master.m3u8?hdnts=st=1793004533~exp=1793006333~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinemalu-SD/master/*~id=GTX-780s_0-9-9z5383488_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=be71e3a920b9b2dd06cd3af7b80e67870ef866b056343effca1a5e7896bd683b&req_id=non-ssai_53f5ebb1-fc98-4b4d-b74a-de68c4359d13",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Cinemalu-SD/master/master.m3u8?hdnts=st=1793005762~exp=1793007562~acl=/out/v1/ZEE5_Live_Channels/Zee-Cinemalu-SD/master/*~id=GTX-780s_0-9-9z5383488_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=3bb290082f344d38902b52129d1a9836cc732f357c6490f4c4e60c9e270130c0&req_id=non-ssai_fb116df7-2dd3-4ad4-b90f-de8870a00f8d",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Cinemalu HD",
     "group": "Movie",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdnts=st=1793004532~exp=1793006332~acl=/cmaf/live/2105544/ZeeCinemaluHDELE/*~id=GTX-780s_0-9-zeecinemalu_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=b7aa9b640d4bed8f51710bb014338d7f703777827abdf7daba5a474326646f4b&req_id=non-ssai_6e57aa1c-e1e8-4801-a29a-76d66a1332d1",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdnts=st=1793005762~exp=1793007562~acl=/cmaf/live/2105544/ZeeCinemaluHDELE/*~id=GTX-780s_0-9-zeecinemalu_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=3ee8854ef56ad85533b4a75698a93e9ca8bf28adfb7431edad4de4a25a3d06ad&req_id=non-ssai_faa15d40-5df9-482b-bdb3-2e849f7beb81",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Classic",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Classic-SD/master/master.m3u8?hdnts=st=1793004532~exp=1793006332~acl=/out/v1/ZEE5_Live_Channels/Zee-Classic-SD/master/*~id=GTX-780s_0-9-176_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=a7b8ddf27112893bd5cce2b91e0ca5407c68338af68f1d061f6b5aad18d34ab8&req_id=non-ssai_68c92aba-42cc-4dd6-928d-ddbe155d9a70",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Classic-SD/master/master.m3u8?hdnts=st=1793005762~exp=1793007562~acl=/out/v1/ZEE5_Live_Channels/Zee-Classic-SD/master/*~id=GTX-780s_0-9-176_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=4482ea2f4d2c6afa12510d728ca871f49da3cda4a37ede5e09d77f00e99aa1d5&req_id=non-ssai_4e81dee1-e90a-4ab7-818f-a0cf8f584582",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Delhi NCR Haryana",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-DelhiNCRHaryana-News-SD/master/master.m3u8?hdnts=st=1793004531~exp=1793007531~acl=/out/v1/ZEE5_Live_Channels/Zee-DelhiNCRHaryana-News-SD/master/*~id=85e8621f-9030-4694-9ff7-653ed5ac0e31~data=non-ssai_85e8621f-9030-4694-9ff7-653ed5ac0e31~hmac=d1476c1b59a74f56e12afaba60bd4c235d5bdccf58a57519fdaa5331dbfe24b2&req_id=non-ssai_85e8621f-9030-4694-9ff7-653ed5ac0e31",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-DelhiNCRHaryana-News-SD/master/master.m3u8?hdnts=st=1793005762~exp=1793008762~acl=/out/v1/ZEE5_Live_Channels/Zee-DelhiNCRHaryana-News-SD/master/*~id=4dc776de-b4c9-4b75-a0fb-02742d51db16~data=non-ssai_4dc776de-b4c9-4b75-a0fb-02742d51db16~hmac=b24bef264c5868adabc8b78484a59030dcbbe5fee675fa6bc2b26428166761b1&req_id=non-ssai_4dc776de-b4c9-4b75-a0fb-02742d51db16",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Kannada",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Kannada-SD/master/master.m3u8?hdnts=st=1793004531~exp=1793006331~acl=/out/v1/ZEE5_Live_Channels/Zee-Kannada-SD/master/*~id=GTX-780s_0-9-9z5383466_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=ea5af75bea0cc78988906f44c12bd5f2fed43f872a7250918bb47f622e139da6&req_id=non-ssai_13110330-ad2b-4b22-8120-42fa3da0688d",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Kannada-SD/master/master.m3u8?hdnts=st=1793005762~exp=1793007562~acl=/out/v1/ZEE5_Live_Channels/Zee-Kannada-SD/master/*~id=GTX-780s_0-9-9z5383466_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=4212f923cf33b41a054a317e405ac94f633ddc9a43cd03f5c5418fa843939336&req_id=non-ssai_e63353d9-4be7-4b86-ac51-06fe1b9a395d",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Kannada HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdnts=st=1793004531~exp=1793006331~acl=/cmaf/live/2105555/ZeeKannadaHDELE/*~id=GTX-780s_0-9-zeekannada_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=ca71db0b0f053f0eb20699f83d778f70901a1f04ea8a10fd3a8886bdfbe77660&req_id=non-ssai_3f54c373-46aa-4c3c-908a-14d7c6b7d625",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdnts=st=1793005762~exp=1793007562~acl=/cmaf/live/2105555/ZeeKannadaHDELE/*~id=GTX-780s_0-9-zeekannada_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=a9060a2149df0636ed54fd484c039f3bf5d2631d4363578e6478b63f439369a5&req_id=non-ssai_8e224e94-df13-49ac-90d7-fbfe044ea3f6",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Keralam HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdnts=st=1793004531~exp=1793006331~acl=/cmaf/live/2105529/ZeeKeralamHDELE/*~id=GTX-780s_0-9-129_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9b3da389a37611c2928ff8b06c57a4be651c3bc34874911b612759395d0ad592&req_id=non-ssai_730fa16a-409f-449c-8679-c05a66681c9e",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdnts=st=1793005761~exp=1793007561~acl=/cmaf/live/2105529/ZeeKeralamHDELE/*~id=GTX-780s_0-9-129_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=54eb6f5f54e9d111b9d33da9060a243f1f1ea92836b805b5f5683838b98c7a1b&req_id=non-ssai_3384620b-61d8-4a70-9d87-6dd594fe9e46",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Madhya Pradesh Chhattisgarh",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Madhya-Pradesh-Chhattisgarh-SD/master/master.m3u8?hdnts=st=1793004531~exp=1793007531~acl=/out/v1/ZEE5_Live_Channels/Zee-Madhya-Pradesh-Chhattisgarh-SD/master/*~id=908fc948-bc0a-476b-bb90-3c7b2cdd43ed~data=non-ssai_908fc948-bc0a-476b-bb90-3c7b2cdd43ed~hmac=94c893cfd091f633675d3dbdee5c0a49a35cc286dea1ee755158f5d7feb81fb0&req_id=non-ssai_908fc948-bc0a-476b-bb90-3c7b2cdd43ed",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Madhya-Pradesh-Chhattisgarh-SD/master/master.m3u8?hdnts=st=1793005760~exp=1793008760~acl=/out/v1/ZEE5_Live_Channels/Zee-Madhya-Pradesh-Chhattisgarh-SD/master/*~id=79276769-712f-496f-8518-43c2432fde5f~data=non-ssai_79276769-712f-496f-8518-43c2432fde5f~hmac=d8663571eaa58d29ad948178a48fad76bdbfc244fff884054cdd328468cb2d6f&req_id=non-ssai_79276769-712f-496f-8518-43c2432fde5f",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Marathi",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Marathi-SD/master/master.m3u8?hdnts=st=1793004530~exp=1793006330~acl=/out/v1/ZEE5_Live_Channels/Zee-Marathi-SD/master/*~id=GTX-780s_0-9-9z5383486_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=f600eee1e11e3ceff8a34f74f9f837d9732965cd1a8fef02748a41762f803736&req_id=non-ssai_2f74c848-c4f3-4456-8866-d5fa3d94c7df",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Marathi-SD/master/master.m3u8?hdnts=st=1793005760~exp=1793007560~acl=/out/v1/ZEE5_Live_Channels/Zee-Marathi-SD/master/*~id=GTX-780s_0-9-9z5383486_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9e6feb18dca012899e1820a8fb9df1e82fbae5ce14d7a6cf53d0dd6cfd46859c&req_id=non-ssai_255b8501-fe45-4b9f-9491-eb66384515da",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Marathi HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdnts=st=1793004530~exp=1793006330~acl=/cmaf/live/2105520/ZeeMarathiHDELE/*~id=GTX-780s_0-9-zeemarathi_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=54337c989cacb272c4618dfa9ec7d88378715be0e2f51bd4512b8fb967a06897&req_id=non-ssai_76ec8b67-defa-4d14-a63d-d1edda4385a5",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdnts=st=1793005760~exp=1793007560~acl=/cmaf/live/2105520/ZeeMarathiHDELE/*~id=GTX-780s_0-9-zeemarathi_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=b1cd3c23ce3f0d4dd74b5076472896dd481db48cf06d693c7a0192a2cabd70ba&req_id=non-ssai_4f8e8646-bcc1-45a7-9161-630c146127d9",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Marathi USA",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Marathi-USA-SD/master/master.m3u8?hdnts=st=1793004538~exp=1793006338~acl=/out/v1/ZEE5_Live_Channels/Zee-Marathi-USA-SD/master/*~id=GTX-780s_0-9-channel_926372368_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=61ac09912955353cd54b194cb8f779a34cc07b346eb365f0649d16d83bbe0dd2&req_id=non-ssai_b9cf411a-506e-4b79-8fc1-ea89800fddf9",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Marathi-USA-SD/master/master.m3u8?hdnts=st=1793005760~exp=1793007560~acl=/out/v1/ZEE5_Live_Channels/Zee-Marathi-USA-SD/master/*~id=GTX-780s_0-9-channel_926372368_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=733144ac516058957625ac14fcb902bb213d27d78deae7b03829983aab59eaa2&req_id=non-ssai_55a56c1c-a264-46bc-bbf7-c040a2e74485",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee News",
     "group": "News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdnts=st=1793004531~exp=1793007531~acl=/cmaf/live/2105510/ZEENEWSELE/*~id=ac3b24d2-0a9f-44b4-85b0-9f97360492cb~data=non-ssai_ac3b24d2-0a9f-44b4-85b0-9f97360492cb~hmac=cc9cd5b0bb1dadcf0b2d2786b7da0d874586fe7462833796432d2492482bf2fc&req_id=non-ssai_ac3b24d2-0a9f-44b4-85b0-9f97360492cb",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdnts=st=1793005760~exp=1793008760~acl=/cmaf/live/2105510/ZEENEWSELE/*~id=b3a709c7-930a-42e6-a632-9dce8f689473~data=non-ssai_b3a709c7-930a-42e6-a632-9dce8f689473~hmac=ea88b88ef743ff39cadb532d2f82dd4ae1c3a94f9c8f0524e80a16ce0ab80ccd&req_id=non-ssai_b3a709c7-930a-42e6-a632-9dce8f689473",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee News Kannada",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-News-Kannada-SD/master/master.m3u8?hdnts=st=1793004528~exp=1793007528~acl=/out/v1/ZEE5_Live_Channels/Zee-News-Kannada-SD/master/*~id=22cebd42-b88c-4734-8390-991c4bb89eaf~data=non-ssai_22cebd42-b88c-4734-8390-991c4bb89eaf~hmac=e5da484dafa5ca15f537dd780e38f63f91c27f0631d2396fe3f3ae2232c389d7&req_id=non-ssai_22cebd42-b88c-4734-8390-991c4bb89eaf",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-News-Kannada-SD/master/master.m3u8?hdnts=st=1793005760~exp=1793008760~acl=/out/v1/ZEE5_Live_Channels/Zee-News-Kannada-SD/master/*~id=a7a7b60d-48a1-4210-bb20-af30f67d6b39~data=non-ssai_a7a7b60d-48a1-4210-bb20-af30f67d6b39~hmac=eea9133f63b699f5b1f869ca83db5387aba0552f131b5c8e4a8be9b56cb37b57&req_id=non-ssai_a7a7b60d-48a1-4210-bb20-af30f67d6b39",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee News Telugu",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-News-Telugu-SD/master/master.m3u8?hdnts=st=1793004526~exp=1793007526~acl=/out/v1/ZEE5_Live_Channels/Zee-News-Telugu-SD/master/*~id=ae2fb023-3a36-425d-8247-abaf7b73d390~data=non-ssai_ae2fb023-3a36-425d-8247-abaf7b73d390~hmac=e9f5032911d0194fda7bbd76b3b7b993382d9d0bf1fb932c5b0b0e02f1a9a682&req_id=non-ssai_ae2fb023-3a36-425d-8247-abaf7b73d390",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-News-Telugu-SD/master/master.m3u8?hdnts=st=1793005760~exp=1793008760~acl=/out/v1/ZEE5_Live_Channels/Zee-News-Telugu-SD/master/*~id=f480b8e9-0177-4f03-a17b-d2f8b2a21399~data=non-ssai_f480b8e9-0177-4f03-a17b-d2f8b2a21399~hmac=e5359a3ef55619c694e38b10d790588bbe73803daaf248c59dfeefe6fe12c563&req_id=non-ssai_f480b8e9-0177-4f03-a17b-d2f8b2a21399",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee News Uttar Pradesh Uttrakhand",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-News-UttarPradesh-Uttrakhand-SD/master/master.m3u8?hdnts=st=1793004526~exp=1793007526~acl=/out/v1/ZEE5_Live_Channels/Zee-News-UttarPradesh-Uttrakhand-SD/master/*~id=6acf7f4c-f8d8-47db-bb8e-36af4e3948c6~data=non-ssai_6acf7f4c-f8d8-47db-bb8e-36af4e3948c6~hmac=3462142a21cd57520f1c6711f379d3f4a6578077ef1ce82fc2dbd27fd75c3274&req_id=non-ssai_6acf7f4c-f8d8-47db-bb8e-36af4e3948c6",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-News-UttarPradesh-Uttrakhand-SD/master/master.m3u8?hdnts=st=1793005760~exp=1793008760~acl=/out/v1/ZEE5_Live_Channels/Zee-News-UttarPradesh-Uttrakhand-SD/master/*~id=b79bc874-ee63-4ffb-b28c-f8369722dc3f~data=non-ssai_b79bc874-ee63-4ffb-b28c-f8369722dc3f~hmac=952e10a4c5ea815f3c8e8d7fa1fe04c092302d4f7769488f1059c303083e6878&req_id=non-ssai_b79bc874-ee63-4ffb-b28c-f8369722dc3f",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee One",
     "group": "Entertainment",
-    "url": "https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793004527~exp=1793007527~acl=/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/latest/main/hls/*~id=acc972ea-19e0-443d-a5b5-ad6e437b0a71~data=non-ssai_acc972ea-19e0-443d-a5b5-ad6e437b0a71~hmac=178a76e818b37ffd4650c3a7020c20da5877fe6f7d5505f1f4c426ef126e41f8&req_id=non-ssai_acc972ea-19e0-443d-a5b5-ad6e437b0a71",
+    "url": "https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793005760~exp=1793008760~acl=/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/latest/main/hls/*~id=5e584e35-ed56-4ff7-918d-3cc6b3430671~data=non-ssai_5e584e35-ed56-4ff7-918d-3cc6b3430671~hmac=5ee29560f7fdacde11e7231dd7604be37c1874ac856893186dc0255ff2fdbf5b&req_id=non-ssai_5e584e35-ed56-4ff7-918d-3cc6b3430671",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee One French",
     "group": "Entertainment",
-    "url": "https://68c95fec.wurl.com/v1/asia_tv_limited_zeemagic_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793004527~exp=1793007527~acl=/v1/asia_tv_limited_zeemagic_1/ohlscdn_us/latest/main/hls/*~id=70aa6b53-2978-4c7f-9088-a3cd25456609~data=non-ssai_70aa6b53-2978-4c7f-9088-a3cd25456609~hmac=278c609470d18fdd758e22a5244785ab7ee8bb8d117c6d5e7435f65d6af5cfb7&req_id=non-ssai_70aa6b53-2978-4c7f-9088-a3cd25456609",
+    "url": "https://68c95fec.wurl.com/v1/asia_tv_limited_zeemagic_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793005758~exp=1793008758~acl=/v1/asia_tv_limited_zeemagic_1/ohlscdn_us/latest/main/hls/*~id=0a5fab01-0a07-420d-be91-59320fe5ecd3~data=non-ssai_0a5fab01-0a07-420d-be91-59320fe5ecd3~hmac=ab320462619683586cdd1399ed2ed5f55e3f25a4612c15e167b1e2c6a948d775&req_id=non-ssai_0a5fab01-0a07-420d-be91-59320fe5ecd3",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee One German",
     "group": "Entertainment",
-    "url": "https://988fd7ad.wurl.com/v1/asiatvlimited_zeeone_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793004532~exp=1793007532~acl=/v1/asiatvlimited_zeeone_1/ohlscdn_us/latest/main/hls/*~id=55f1d883-0886-472e-960a-fe4582497779~data=non-ssai_55f1d883-0886-472e-960a-fe4582497779~hmac=f6bc282e40b570307a1a3fac79ea55a4847a51a652390b0f671b97ab60c04b3e&req_id=non-ssai_55f1d883-0886-472e-960a-fe4582497779",
+    "url": "https://988fd7ad.wurl.com/v1/asiatvlimited_zeeone_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793005758~exp=1793008758~acl=/v1/asiatvlimited_zeeone_1/ohlscdn_us/latest/main/hls/*~id=52a48b34-4219-4211-b119-7b698da35b80~data=non-ssai_52a48b34-4219-4211-b119-7b698da35b80~hmac=8352759d29b4358f4e6d9bbca159ef2331f656f762e81c135705fc9b590e352e&req_id=non-ssai_52a48b34-4219-4211-b119-7b698da35b80",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Power HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharHDELE/index-connected.m3u8?hdnts=st=1793004524~exp=1793006324~acl=/cmaf/live/2105542/ZeePiccharHDELE/*~id=GTX-780s_0-9-241_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=a0460d5f544dbd49ae8766227b0dc9ccf53ed77c0ede2685eb4f648a13a93fbf&req_id=non-ssai_32519ab9-6611-4097-be85-c60a09d51185",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharHDELE/index-connected.m3u8?hdnts=st=1793005759~exp=1793007559~acl=/cmaf/live/2105542/ZeePiccharHDELE/*~id=GTX-780s_0-9-241_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=c0eb13063de7afa2fdc2d3d840e3c831fb31c0b280f2ee6d94b5b65433418c67&req_id=non-ssai_fa45e662-a490-40c6-89b9-704337b8e8f8",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Punjab Haryana Himachal Pradesh",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Punjab-Haryana-Himachal-Pradesh-SD/master/master.m3u8?hdnts=st=1793004523~exp=1793007523~acl=/out/v1/ZEE5_Live_Channels/Zee-Punjab-Haryana-Himachal-Pradesh-SD/master/*~id=ea9e91f2-8bb1-4c9c-bedb-3992d4857144~data=non-ssai_ea9e91f2-8bb1-4c9c-bedb-3992d4857144~hmac=01df496d7151cf7e399789c96bbdb07b873db0dc7c7966d5bf92bfc49d885c87&req_id=non-ssai_ea9e91f2-8bb1-4c9c-bedb-3992d4857144",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Punjab-Haryana-Himachal-Pradesh-SD/master/master.m3u8?hdnts=st=1793005758~exp=1793008758~acl=/out/v1/ZEE5_Live_Channels/Zee-Punjab-Haryana-Himachal-Pradesh-SD/master/*~id=3cfc3ddf-4ccc-4dfb-b946-a4cd578be3b2~data=non-ssai_3cfc3ddf-4ccc-4dfb-b946-a4cd578be3b2~hmac=d58f2219dea440b48067aa3b506e6d881e0b2957a024175bc0344dd24a4da7c7&req_id=non-ssai_3cfc3ddf-4ccc-4dfb-b946-a4cd578be3b2",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Punjabi",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Punjabi-SD/master/master.m3u8?hdnts=st=1793004524~exp=1793006324~acl=/out/v1/ZEE5_Live_Channels/Zee-Punjabi-SD/master/*~id=GTX-780s_0-9-215_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=8313b2e5a736c663dd39020e9d1dd1b148191b163fb5dff4d9d92ed81447df34&req_id=non-ssai_1d2c59a7-2642-4560-9ad4-08056c864826",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Punjabi-SD/master/master.m3u8?hdnts=st=1793005758~exp=1793007558~acl=/out/v1/ZEE5_Live_Channels/Zee-Punjabi-SD/master/*~id=GTX-780s_0-9-215_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=56eb0ee2c6e66baf9766dfec8cdf69b7f4d0a05ed2b4036556a107eeb9dd5aa2&req_id=non-ssai_f81b4f91-3dc3-4b07-9aa0-af6565479f2c",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Punjabi HD UK",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Punjabi-UK/index-connected/index-connected.m3u8?hdnts=st=1793004525~exp=1793006325~acl=/out/v1/ZEE5_Live_Channels/Zee-Punjabi-UK/index-connected/*~id=GTX-780s_0-9-9z5950417_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=58d568efdce88e93256a45e995bc922ad359e5d309d97c423a1fb5fa17040157&req_id=non-ssai_6dd93f05-d156-48ff-8977-97644a5b349d",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Punjabi-UK/index-connected/index-connected.m3u8?hdnts=st=1793005758~exp=1793007558~acl=/out/v1/ZEE5_Live_Channels/Zee-Punjabi-UK/index-connected/*~id=GTX-780s_0-9-9z5950417_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9e579e93ae994c4570b9e02a466d69c7d201d610d3b22f3db1da58f4f8711af7&req_id=non-ssai_8e8c42df-0366-410e-9c58-b10904331f73",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Rajasthan News",
     "group": "News",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Rajasthan-News-SD/master/master.m3u8?hdnts=st=1793004511~exp=1793007511~acl=/out/v1/ZEE5_Live_Channels/Zee-Rajasthan-News-SD/master/*~id=c69e3862-bf50-409c-a41d-a2ba639b8309~data=non-ssai_c69e3862-bf50-409c-a41d-a2ba639b8309~hmac=35d9a6ddff4d5743af171902e2a5f8c26f648bb568c4c6a1624e3bb8c3e08b07&req_id=non-ssai_c69e3862-bf50-409c-a41d-a2ba639b8309",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Rajasthan-News-SD/master/master.m3u8?hdnts=st=1793005758~exp=1793008758~acl=/out/v1/ZEE5_Live_Channels/Zee-Rajasthan-News-SD/master/*~id=48a4258f-88b9-4605-8e4c-a7a2acc00671~data=non-ssai_48a4258f-88b9-4605-8e4c-a7a2acc00671~hmac=94d55a57c8696d63b1258a12bc8a8c38249102c82eb8d4ee264d71f97e320df1&req_id=non-ssai_48a4258f-88b9-4605-8e4c-a7a2acc00671",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Sarthak",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Sarthak-SD/master/master.m3u8?hdnts=st=1793004511~exp=1793006311~acl=/out/v1/ZEE5_Live_Channels/Zee-Sarthak-SD/master/*~id=GTX-780s_0-9-sarthaktv_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=db3311a9d4a6eda6c25560c93e4a1e78ed2b481c0c2fa7996c5c2b8910c8b4b5&req_id=non-ssai_5a273e68-da7c-4f17-9322-26b8927f418f",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Sarthak-SD/master/master.m3u8?hdnts=st=1793005758~exp=1793007558~acl=/out/v1/ZEE5_Live_Channels/Zee-Sarthak-SD/master/*~id=GTX-780s_0-9-sarthaktv_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=2817fe5b0b1825ff1a7f786d5cc5cfffbab071c49e09d1715ac5c57b2205080f&req_id=non-ssai_83a37733-777f-4b7a-81d8-6b07d312512e",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee South Flix",
     "group": "South dubbed",
-    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeesfl/playlist.m3u8?hdnts=st=1793004511~exp=1793007511~acl=/zfast/stream/zeesfl/*~id=4f278dc0-7cb7-41f0-a02e-dccd063aef31~data=non-ssai_4f278dc0-7cb7-41f0-a02e-dccd063aef31~hmac=2d5e5c4753e3978335e1caa7c99621918a2af50108caeabd7fdba3bc2fc936a5&req_id=non-ssai_4f278dc0-7cb7-41f0-a02e-dccd063aef31",
+    "url": "https://zee5.cdn.runn.tv/zfast/stream/zeesfl/playlist.m3u8?hdnts=st=1793005758~exp=1793008758~acl=/zfast/stream/zeesfl/*~id=4957f689-0dce-4321-8133-4c585b7b9049~data=non-ssai_4957f689-0dce-4321-8133-4c585b7b9049~hmac=90725a419fe801fb97ec84fff50767ae0f72f0d5d7f4bc2b45422659eef726ef&req_id=non-ssai_4957f689-0dce-4321-8133-4c585b7b9049",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Talkies",
     "group": "Movie",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Talkies-SD/master/master.m3u8?hdnts=st=1793004509~exp=1793006309~acl=/out/v1/ZEE5_Live_Channels/Zee-Talkies-SD/master/*~id=GTX-780s_0-9-9z5383489_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=52397eff3f79db555eb33caaa2291f514ede2ec833784df8899c2e64ed3abf11&req_id=non-ssai_b3a0c9dc-57fa-4fdf-b0d8-5e99f2e00592",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Talkies-SD/master/master.m3u8?hdnts=st=1793005757~exp=1793007557~acl=/out/v1/ZEE5_Live_Channels/Zee-Talkies-SD/master/*~id=GTX-780s_0-9-9z5383489_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=5b670d7feec62733ee8d1a1281baccdf5e555287ec1000fe4334cdf5c94359ec&req_id=non-ssai_5b611040-275c-44e1-94ef-a97d3186bc06",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Talkies HD",
     "group": "Movie",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdnts=st=1793004509~exp=1793006309~acl=/cmaf/live/2105519/ZeeTalkiesHDELE/*~id=GTX-780s_0-9-zeetalkies_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=06473a6f7a38f2c3b00755260e433757a8fbeae497f23dcbb30f468edf52229b&req_id=non-ssai_b19019d9-f2b7-4163-b0bd-f5e3195aab5d",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdnts=st=1793005756~exp=1793007556~acl=/cmaf/live/2105519/ZeeTalkiesHDELE/*~id=GTX-780s_0-9-zeetalkies_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=220242d2ff3f9542c2b0c34bc2294f2c81caa7c810fbae3d2ef50b75115c8cff&req_id=non-ssai_cf2f9bb5-1c1b-400d-95bb-7fc9a9aba21d",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Tamil",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Tamil-SD/master/master.m3u8?hdnts=st=1793004509~exp=1793006309~acl=/out/v1/ZEE5_Live_Channels/Zee-Tamil-SD/master/*~id=GTX-780s_0-9-9z5383487_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=0e5029c76d9e86d8437eb06db85219e64471d5a8e40c346e3a54b4068041f76c&req_id=non-ssai_284fa0cb-c462-4d4f-87ca-12cea91c8924",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Tamil-SD/master/master.m3u8?hdnts=st=1793005756~exp=1793007556~acl=/out/v1/ZEE5_Live_Channels/Zee-Tamil-SD/master/*~id=GTX-780s_0-9-9z5383487_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=524972b872c5c9ee2771ef6a25bff4474f734bee6ef1ee412488f631ab029f4e&req_id=non-ssai_7d7431e2-68d7-49a6-be57-4bfd86f009da",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Tamil HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdnts=st=1793004507~exp=1793006307~acl=/cmaf/live/2105530/ZeeTamilHDELE/*~id=GTX-780s_0-9-zeetamil_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=67aa66a61ebf04355eb014f9d6eba2dced9844a621742cf66e284c1d328e2f54&req_id=non-ssai_865054c8-25c7-4bd1-a2fb-7350c7fd9b7a",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdnts=st=1793005756~exp=1793007556~acl=/cmaf/live/2105530/ZeeTamilHDELE/*~id=GTX-780s_0-9-zeetamil_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=4a5236d2af775f2b70cc3f4cc130720026989d939e51d7b572603a345dca3ba6&req_id=non-ssai_4f2c8ca1-fe16-4086-9df0-90452027b46c",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Tamil HD APAC",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Tamil-APAC-HD/index-connected/index-connected.m3u8?hdnts=st=1793004525~exp=1793006325~acl=/out/v1/ZEE5_Live_Channels/Zee-Tamil-APAC-HD/index-connected/*~id=GTX-780s_0-9-360_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=e9e7e52af4e00cf1535ffc248f6154082a3d5985c36c04bc53ba54cad2c00de6&req_id=non-ssai_52e81253-794c-4e79-911d-5050967a1e53",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Tamil-APAC-HD/index-connected/index-connected.m3u8?hdnts=st=1793005756~exp=1793007556~acl=/out/v1/ZEE5_Live_Channels/Zee-Tamil-APAC-HD/index-connected/*~id=GTX-780s_0-9-360_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=0fe579c8fc5775f6458593fd718157c4714d8ae8bd7ab8362ae053f1901546e0&req_id=non-ssai_2d053e47-1909-4323-9697-91fc58885a6f",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Telugu",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdnts=st=1793004507~exp=1793006307~acl=/cmaf/live/2105179/ZeeTeluguELE/*~id=GTX-780s_0-9-9z5383485_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=a81ef48a8eb052abc341b4f95caa9cb2a954d87dc153a770e05d484cb038979f&req_id=non-ssai_13c7ed53-c4cf-45e1-a507-5004639252bc",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdnts=st=1793005756~exp=1793007556~acl=/cmaf/live/2105179/ZeeTeluguELE/*~id=GTX-780s_0-9-9z5383485_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=5243b4d3bbc300bfd23629626f952a4575cf8b2fca578e947e45a60ffa61ade6&req_id=non-ssai_40008ff9-02a6-4259-957a-705819fafa1a",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Telugu HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdnts=st=1793004507~exp=1793006307~acl=/cmaf/live/2105545/ZeeTeluguHDELE/*~id=GTX-780s_0-9-zeetelugu_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=93553ae50e9738647328e5d2fb1a4e2f26696039e5591d34fb863d0cec1e6478&req_id=non-ssai_c8316558-4923-4edb-b1b5-19ff71f894c5",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdnts=st=1793005756~exp=1793007556~acl=/cmaf/live/2105545/ZeeTeluguHDELE/*~id=GTX-780s_0-9-zeetelugu_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=dec685d6eb323b9ae2e88f290b16616425754e5da9735ea7d31c89636ac6e609&req_id=non-ssai_ce0db2e9-b57a-4505-957c-014cea2284d3",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Thirai HD",
     "group": "Movie",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiHDELE/index-connected.m3u8?hdnts=st=1793004505~exp=1793006305~acl=/cmaf/live/2105172/ZeeThiraiHDELE/*~id=GTX-780s_0-9-224_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=74d4b7bd02eb332b37c98ae48cf03f4163cc795651d3ae76e8826748b588eb49&req_id=non-ssai_464eeb83-010d-45da-ae90-8fe6ad64a6d0",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiHDELE/index-connected.m3u8?hdnts=st=1793005755~exp=1793007555~acl=/cmaf/live/2105172/ZeeThiraiHDELE/*~id=GTX-780s_0-9-224_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=1b92655b4c5bbf0153fa1c3128b631512d201fe6d96a0670ae3dea529ea6873b&req_id=non-ssai_e7ec98b1-85da-4610-950c-0dcebac45553",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdnts=st=1793004505~exp=1793006305~acl=/cmaf/live/2105536/ZeeTVELE/*~id=GTX-780s_0-9-zeetv_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=e1f91478fc344daede7106f988a0527ad71913a5c2918101a5ef2bea811a3d50&req_id=non-ssai_67684673-6a63-4b71-8b5d-20117cbb02d2",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdnts=st=1793005755~exp=1793007555~acl=/cmaf/live/2105536/ZeeTVELE/*~id=GTX-780s_0-9-zeetv_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=05e5bb526d4c3d062bd630e835078e08ede24c8fe5d17d29e323fa3a11cda3df&req_id=non-ssai_690353b7-f675-41c7-b734-05c2c8128905",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV APAC HD",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-APAC-HD/index-connected/index-connected.m3u8?hdnts=st=1793004511~exp=1793006311~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-APAC-HD/index-connected/*~id=GTX-780s_0-9-zeetvapac_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=d83ea30ce08ce8392783b273acc90ced10e42dbd751d6ccca2be130a4655deb4&req_id=non-ssai_99ab11da-da3c-4135-b6f3-99ede7fd49e9",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-APAC-HD/index-connected/index-connected.m3u8?hdnts=st=1793005755~exp=1793007555~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-APAC-HD/index-connected/*~id=GTX-780s_0-9-zeetvapac_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=469e812231034ff478993fca8f51034ef8aaa2acb0cc21270d364d1a10a41283&req_id=non-ssai_8a36fbe6-70bf-4ed3-ba53-ecd57ed9ece9",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV DE",
     "group": "Entertainment",
-    "url": "https://f46c8694.wurl.com/v1/asia_tv_limited_zeetvhdukgermany_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793004508~exp=1793007508~acl=/v1/asia_tv_limited_zeetvhdukgermany_1/ohlscdn_us/latest/main/hls/*~id=747b7f5c-a1d8-4650-a379-76df290452df~data=non-ssai_747b7f5c-a1d8-4650-a379-76df290452df~hmac=c198021d4055be483990bfb63cda0bf4b2fc228eabec26692d058e742f356f1a&req_id=non-ssai_747b7f5c-a1d8-4650-a379-76df290452df",
+    "url": "https://f46c8694.wurl.com/v1/asia_tv_limited_zeetvhdukgermany_1/ohlscdn_us/latest/main/hls/playlist.m3u8?hdnts=st=1793005755~exp=1793008755~acl=/v1/asia_tv_limited_zeetvhdukgermany_1/ohlscdn_us/latest/main/hls/*~id=facbe48d-841e-4803-afac-888f451483b9~data=non-ssai_facbe48d-841e-4803-afac-888f451483b9~hmac=529bdc6696863ade5c68e0ac9c922634377aa75f01639fc9f7f42bb9e329fdc6&req_id=non-ssai_facbe48d-841e-4803-afac-888f451483b9",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV HD",
     "group": "Entertainment",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdnts=st=1793004502~exp=1793006302~acl=/cmaf/live/2105531/ZeeTVHDMSLELE/*~id=GTX-780s_0-9-zeetvhd_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=d9b2046ad03c9ee1802d9940268f18b86ef7564a4bc8991227fad6aba083927d&req_id=non-ssai_0ffe3237-89d7-4036-849c-699ab9ecb3db",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/cmaf/live/2105531/ZeeTVHDMSLELE/*~id=GTX-780s_0-9-zeetvhd_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=07d011b7dd8a67ccdecd97ef492769e39ef6eca17f744ab5fb966f0cdb6edf45&req_id=non-ssai_aab9bdef-0e0f-467c-b6a6-a23f3024047b",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV HD Canada",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-Canada-HD/index-connected/index-connected.m3u8?hdnts=st=1793004511~exp=1793006311~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-Canada-HD/index-connected/*~id=GTX-780s_0-9-channel_1017420475_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=0f9ec1e53505f00b82471e5633bcc5e4f7c4ce45efdf7aa3c97fc0181d6f559a&req_id=non-ssai_4c4c8936-22d8-48b2-9d1f-068bb60b526a",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-Canada-HD/index-connected/index-connected.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-Canada-HD/index-connected/*~id=GTX-780s_0-9-channel_1017420475_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=11e4ebd06191edd8b309a7b81904ffbf739544cb6beea5b53769544071d85879&req_id=non-ssai_c25c0dcc-e8ee-4ebc-b51d-e51023b8a7fb",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV HD UK",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-UK-HD/index-connected/index-connected.m3u8?hdnts=st=1793004505~exp=1793006305~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-UK-HD/index-connected/*~id=GTX-780s_0-9-zeetvuk_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=6bd0d39d52014ddbf05865bb9eb3dde8f9e32b76403fd196f0c2d15df8e5e0b9&req_id=non-ssai_c844e3ad-7394-46d3-a581-002f8352f8be",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-UK-HD/index-connected/index-connected.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-UK-HD/index-connected/*~id=GTX-780s_0-9-zeetvuk_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=aa753c1f7f924429d9f61d78b29c742f5296a08c74dfdae5b81f0d5c3f6f5c52&req_id=non-ssai_e73b42e7-c399-4987-9cdc-9351f58daf67",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV HD USA",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/ZEE-TV-USA-HD/index-connected/index-connected.m3u8?hdnts=st=1793004528~exp=1793006328~acl=/out/v1/ZEE5_Live_Channels/ZEE-TV-USA-HD/index-connected/*~id=GTX-780s_0-9-channel_341994370_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=33d373689907dbf341066a19efef3d4c03b6b5cc455b70d287657255d577faf6&req_id=non-ssai_0eccf311-9de8-415e-96e3-2698d75b0e37",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/ZEE-TV-USA-HD/index-connected/index-connected.m3u8?hdnts=st=1793005754~exp=1793007554~acl=/out/v1/ZEE5_Live_Channels/ZEE-TV-USA-HD/index-connected/*~id=GTX-780s_0-9-channel_341994370_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=5ca34888a59c40e8fa14d69f8b5438a53ae259c074d6872adec1a5f020c0913e&req_id=non-ssai_c8673c28-b039-4664-93c4-f77bec99af83",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV ME",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-ME-HD/index-connected/index-connected.m3u8?hdnts=st=1793004527~exp=1793006327~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-ME-HD/index-connected/*~id=GTX-780s_0-9-tvme_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=dab3313856c38e2f43527aae4d392074d9bd20a08605854979e890f6165dd592&req_id=non-ssai_e3235a86-625a-494b-9704-db2c588de586",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-ME-HD/index-connected/index-connected.m3u8?hdnts=st=1793005754~exp=1793007554~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-ME-HD/index-connected/*~id=GTX-780s_0-9-tvme_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=228988d576a29c1974e6cf61716576028e3322174e4f2f3efe37dea44ba8472b&req_id=non-ssai_021f62fb-33de-46ab-a43d-26dbd9425504",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee TV USA",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-USA-SD/master/master.m3u8?hdnts=st=1793004527~exp=1793006327~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-USA-SD/master/*~id=GTX-780s_0-9-channel_1586895760_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=8d7018a456f3dbe9e798b8c7a61f4d918d3ee5466dd8c208f96f1cbad4f8e2d5&req_id=non-ssai_7dd33536-39d4-42e6-8a5f-3b22d5c67fb4",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-TV-USA-SD/master/master.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Zee-TV-USA-SD/master/*~id=GTX-780s_0-9-channel_1586895760_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=4cd909311e3d44cfeb550ea21fd4ef27f0b8b68930116c2c2a73fb8ea8599c02&req_id=non-ssai_86e1acb1-c97c-4350-83ed-075e2ceb0016",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Yuva",
     "group": "Entertainment",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Yuva-SD/master/master.m3u8?hdnts=st=1793004502~exp=1793006302~acl=/out/v1/ZEE5_Live_Channels/Zee-Yuva-SD/master/*~id=GTX-780s_0-9-zeeyuva_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=9a9b9449dbf82213dd325bf3197e70201cb33083f5f3d9477e996453a2530a00&req_id=non-ssai_1315c795-9214-434a-b6ab-8241c14f1abd",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Yuva-SD/master/master.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Zee-Yuva-SD/master/*~id=GTX-780s_0-9-zeeyuva_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=0cd7a01a7788da16556026d54aecb556fc13b59b13c875918094ff580682747a&req_id=non-ssai_e7963ec0-7fbc-4d32-a6c1-68c917f8c584",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zee Zest HD",
     "group": "Lifestyle",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected/index-connected.m3u8?hdnts=st=1793004503~exp=1793006303~acl=/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected/*~id=GTX-780s_0-9-348_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=03279e24cab76c53c9e8e3f210fcd42692c70f421b928c30da37967607b70593&req_id=non-ssai_c56c8aaa-8747-4aef-9412-e57090e350d7",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected/index-connected.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected/*~id=GTX-780s_0-9-348_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=8ce292ac827f5e15f74923544882c713a7927b152bb146ceffdcae1072ee80be&req_id=non-ssai_d78f5dd4-4157-4ca7-a693-e4c8427e5ff0",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zing",
     "group": "Music",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zing-SD/master/master.m3u8?hdnts=st=1793004502~exp=1793006302~acl=/out/v1/ZEE5_Live_Channels/Zing-SD/master/*~id=GTX-780s_0-9-zing_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=437af49c1d88cfa8d8e2e54aa1d72242a5b9f58ebdfbdda1e2171a5da530ced9&req_id=non-ssai_0265534d-f239-4161-89ea-5c16173760d3",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zing-SD/master/master.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Zing-SD/master/*~id=GTX-780s_0-9-zing_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=83604390bd36b0732dae954bd07bdf6b0bff1dc34119336ffdc3a7cbcebaa5bd&req_id=non-ssai_35e26fe0-08d8-43b1-afd0-b3f18c0ca749",
     "apiby": "@ssk4570"
   },
   {
     "name": "Zing USA",
     "group": "Music",
-    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zing-USA-SD/master/master.m3u8?hdnts=st=1793004505~exp=1793006305~acl=/out/v1/ZEE5_Live_Channels/Zing-USA-SD/master/*~id=GTX-780s_0-9-channel_1643519345_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=09e5a97020607e268374eeee53308ec26d00377042755bb7715c9cf3a282c713&req_id=non-ssai_0ce6acb9-0dd1-4a14-85c2-dee2717a4d3a",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zing-USA-SD/master/master.m3u8?hdnts=st=1793005753~exp=1793007553~acl=/out/v1/ZEE5_Live_Channels/Zing-USA-SD/master/*~id=GTX-780s_0-9-channel_1643519345_Z5X_b705f100bba240b7a5eefdff58fb16c416017bb48d534cdabd9fff9a19ffd8dd~hmac=7a91aaed38548c5e8e3a8298f6a0a6a89017e8dc1c77cc2220097714706a8604&req_id=non-ssai_cf596938-5c3a-4e7c-bdd1-329c6e3c322b",
     "apiby": "@ssk4570"
   }
 ]
