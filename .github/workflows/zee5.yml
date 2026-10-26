@@ -1,26 +1,20 @@
 name: ZEE5 Channel Fetcher
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
-
-permissions:
-  contents: write
+  workflow_dispatch:
 
 jobs:
   fetch-zee5:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Connect to Tailscale Exit Node
-        uses: tailscale/github-action@v2
-        with:
-          authkey: ${{ secrets.TS_AUTH_KEY }}
-          version: "1.66.0"
-          args: --exit-node=100.125.144.27 --exit-node-allow-lan-access=true
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,9 +25,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: Check IP (Mobile Exit Node Test)
-        run: curl -s https://ifconfig.me
 
       - name: Run ZEE5 Fetcher Script
         run: |
