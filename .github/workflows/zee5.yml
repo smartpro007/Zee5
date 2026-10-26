@@ -1,22 +1,26 @@
 name: ZEE5 Channel Fetcher
 
 on:
+  workflow_dispatch:
   schedule:
-    # दररोज एकदा (UTC वेळेनुसार मध्यरात्री) ऑटोमॅटिक रन होईल
     - cron: '0 0 * * *'
-  workflow_dispatch: # हाताने (Manually) कधीही रन करण्यासाठी बटण मिळेल
+
+permissions:
+  contents: write
 
 jobs:
   fetch-zee5:
     runs-on: ubuntu-latest
-    
-    # GitHub Actions ला फाईल मॉडिफाय आणि पुश करण्याची परवानगी देणे
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
+
+      - name: Connect to Tailscale Exit Node
+        uses: tailscale/github-action@v2
+        with:
+          authkey: ${{ secrets.TS_AUTH_KEY }}
+          version: "1.66.0"
+          args: --exit-node=100.125.144.27 --exit-node-allow-lan-access=true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,13 +32,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Connect to Tailscale
-        uses: tailscale/github-action@v2
-        with:
-          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
-          version: "1.66.0"
-          exit-node: poco-m6-pro-5g
-          exit-node-allow-lan-access: true
+      - name: Check IP (Mobile Exit Node Test)
+        run: curl -s https://ifconfig.me
 
       - name: Run ZEE5 Fetcher Script
         run: |
