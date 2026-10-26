@@ -32,6 +32,8 @@ jobs:
         uses: tailscale/github-action@v2
         with:
           authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
+          exit-node: poco-m6-pro-5g
+          exit-node-allow-lan-access: true
 
       - name: Run ZEE5 Fetcher Script
         run: |
