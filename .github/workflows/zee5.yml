@@ -26,16 +26,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Connect to Tailscale Exit Node
-        uses: tailscale/github-action@v2
-        with:
-          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
-          version: "1.66.0"
-          args: --exit-node=100.125.144.27 --exit-node-allow-lan-access=true --accept-routes
-
-      - name: Check Exit Node IP
+      - name: Check IP
         run: |
-          echo "Current IP through Tailscale:"
+          echo "Current IP:"
           curl -s https://ifconfig.me
           echo ""
 
